@@ -64,7 +64,7 @@ A study notes for kotlin https://coding.imooc.com/class/108.html 。
 
 ## Android :zap:
 
-> [第一行代码]（）
+> [第一行代码]()
 
 > [Android 从小工到专家]()
 
@@ -96,7 +96,7 @@ A study notes for kotlin https://coding.imooc.com/class/108.html 。
 
 > [小程序入门]()
 
-> [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips
+> [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
 
 一些有助于你更早成为Android Expert的Tips。
 
