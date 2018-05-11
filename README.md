@@ -16,7 +16,7 @@
 
 ## 数据库 :floppy_disk:
 
-> []()
+> [深入浅出MySQL (第2版]()
 
 ## 算法 :pencil2:
 
@@ -36,19 +36,27 @@
 
 ## 设计模式 :trophy:
 
+> [设计模式之禅]()
+
+对《设计模式之禅》一书中设计模式的精华提炼。
+
 > [Android源码设计模式解析与实战]()
 
 对《Android源码设计模式解析与实战》一书中设计模式的精华提炼。
 
 ## Java :coffee:
 
-> [Java编程思想]()
+> [Java编程思想 (第4版)]()
 
 对《Java编程思想》中的重点知识进行了整理归纳。
 
-> [Effective Java]()
+> [Effective Java (第2版)]()
 
 对《Effective Java》中的重点知识进行了整理归纳。
+
+> [Java并发编程实战]()
+
+对《Java并发编程实战》中的重点知识进行了整理归纳。
 
 > [深入理解JVM]()
 
@@ -86,13 +94,25 @@ A study notes for kotlin https://coding.imooc.com/class/108.html 。
 
 对《Android开发艺术探索》中的重点知识进行了整理归纳。
 
-> [Android高级进阶]()
+> [App研发录-架构设计，Crash分析和竞品]()
 
-对《Android高级进阶》中的重点知识进行了整理归纳。
+对《App研发录-架构设计，Crash分析和竞品》中的重点知识进行了整理归纳。
 
 > [Android性能优化实践]()
 
 对《Android性能优化实践》中的重点知识进行了整理归纳。
+
+> [Android高级进阶]()
+
+对《Android高级进阶》中的重点知识进行了整理归纳。
+
+> [Android系统源代码情景分析]()
+
+对《Android系统源代码情景分析》中的重点知识进行了整理归纳。
+
+> [深入探索Android热修复技术原理]()
+
+对《深入探索Android热修复技术原理》中的重点知识进行了整理归纳。
 
 > [Android组件化架构]()
 
@@ -107,6 +127,10 @@ Android优秀三方源码必知必会~
 > [重构，改善既有代码的设计]()
 
 整理出《重构，改善既有代码的设计》一书中的重构精髓。
+
+> [代码整洁之道]()
+
+整理出《代码整洁之道》一书中的coding精髓。
 
 ## 其它 :muscle:
 
@@ -136,8 +160,25 @@ Python入门笔记
 
 笔者是一名普通的Android开发者，毕业于16年（普通本科），至今（2018/5/10）已工作2年，看过jwasham的面试故事之后，打算创建此仓库——Awesome-Android-Expert来督促自己在今年之前成为独当一面的高级(资深)Android软件工程师，望大家点个star来监督我~
 
-**关于转载**
+## 版权声明
 
-本仓库内容使用到的资料都会在最后面的参考资料中给出引用链接，希望您在使用本仓库的内容时也能给出相应的引用链接。
+* 所有原创文章(未进行特殊标识的均属于原创) 的著作权属于 **JsonChao**。
+* 所有译文文章(标题注明`[译]`的所有文章) 的原文著作权属于原作者，译文著作权属于 **JsonChao**。
 
+#### 转载注意事项
+
+除注明外，所有文章均采用 [Creative Commons BY-NC-ND 4.0（自由转载-保持署名-非商用-禁止演绎）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)协议发布。
+
+您可以在非商业的前提下免费转载，但同时您必须：
+
+* 保持文章原文，不作修改。
+* 明确署名，即至少注明 `作者：JsonChao` 字样以及文章的原始链接，且不得使用 `rel="nofollow"` 标记。
+* 商业用途请以邮件方式联系本人。
+* 微信公众号转载一律不授权 `原创` 标志。
+
+### About me
+
+- #### Email:[chao.qu521@gmail.com]()
+- #### Blog:[https://jsonchao.github.io/](https://jsonchao.github.io/)
+- #### 掘金:[https://juejin.im/user/5a3ba9375188252bca050ade](https://juejin.im/user/5a3ba9375188252bca050ade)
 
