@@ -48,7 +48,7 @@
 
 对《Android源码设计模式解析与实战》一书中设计模式的精华提炼。
 
-## Java :coffee:
+## JAVA :coffee:
 
 > [Java编程思想 (第4版)]()
 
@@ -80,7 +80,7 @@ A study notes for kotlin https://coding.imooc.com/class/108.html 。
 
 归纳整理出《Kotlin 实战》一书中的精华。
 
-## Android :zap:
+## AN :zap:
 
 > [第一行代码]()
 
@@ -136,7 +136,7 @@ Android优秀三方源码必知必会~
 
 整理出《代码整洁之道》一书中的coding精髓。
 
-## 其它 :muscle:
+## 额外的学习 :muscle:
 
 > [React Native入门]()
 
