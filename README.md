@@ -1,6 +1,6 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 操作系统 [:computer:](#操作系统-computer) | 网络 [:cloud:](#网络-cloud) | 数据库 [:floppy_disk:](#数据库-floppy_disk) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java[:coffee:](#Java-coffee) | Kotlin [:fire:](#Kotlin-fire) | Android[:zap:](#Android-zap) | 编码实践 [:speak_no_evil:](#编码实践-speak_no_evil) | 额外的学习[:muscle:](额外的学习-muscle) |
+| 操作系统 [:computer:](#操作系统-computer) | 网络 [:cloud:](#网络-cloud) | 数据库 [:floppy_disk:](#数据库-floppy_disk) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#Java-coffee) | Kotlin [:fire:](#Kotlin-fire) | Android [:zap:](#Android-zap) | 编码实践 [:speak_no_evil:](#编码实践-speak_no_evil) | 额外的学习 [:muscle:](额外的学习-muscle) |
 
 ## 操作系统 :computer:
 
@@ -48,7 +48,7 @@
 
 对《Android源码设计模式解析与实战》一书中设计模式的精华提炼。
 
-## JAVA :coffee:
+## Java :coffee:
 
 > [Java编程思想 (第4版)]()
 
@@ -70,7 +70,7 @@
 
 对《重要Java类源码解析》中的重点知识进行了整理归纳。
 
-## kotlin :fire:
+## Kotlin :fire:
 
 > [KotlinImoocVideoStudyNotes]()
 
@@ -80,7 +80,7 @@ A study notes for kotlin https://coding.imooc.com/class/108.html 。
 
 归纳整理出《Kotlin 实战》一书中的精华。
 
-## ANDROID :zap:
+## Android :zap:
 
 > [第一行代码]()
 
@@ -140,19 +140,19 @@ Android优秀三方源码必知必会~
 
 > [React Native入门]()
 
-React Native入门笔记
+React Native入门笔记。
 
 > [Flutter入门]()
 
-Flutter入门笔记
+Flutter入门笔记。
 
 > [Python入门]()
 
-Python入门笔记
+Python入门笔记。
 
 > [小程序入门]()
 
-小程序入门笔记
+小程序入门笔记。
 
 > [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
 
