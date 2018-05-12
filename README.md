@@ -162,7 +162,7 @@ Python入门笔记。
 
 > 想法来源于jwasham的[coding-interview-university](https://github.com/jwasham/coding-interview-university)。
 
-笔者是一名普通的Android开发者，毕业于16年（普通本科），至今（2018/5/10）已工作2年，看过jwasham的面试故事之后，打算创建此仓库——Awesome-Android-Expert来督促自己在今年之前成为独当一面的高级(资深)Android软件工程师，望大家点个star来监督我~
+笔者是一名普通的Android开发者，毕业于16年（普通本科），至今（2018/5/10）已工作2年，看过jwasham的面试故事之后，打算创建此仓库——Awesome-Android-Exercise来督促自己在一年之前成为独当一面的高级(资深)Android软件工程师，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
 
 ## 版权声明
 
