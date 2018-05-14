@@ -36,7 +36,7 @@
 
 > [Lettcode相关题解]()
 
-记录笔者所有AC的Lettcode题解。
+记录笔者所有AC的Lettcode探索栏目相关题解。
 
 ## 设计模式 :trophy:
 
