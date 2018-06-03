@@ -2,7 +2,7 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 | 操作系统 [:computer:](#操作系统-computer) | 网络 [:cloud:](#网络-cloud) | 数据库 [:floppy_disk:](#数据库-floppy_disk) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 编码实践 [:speak_no_evil:](#编码实践-speak_no_evil) | 额外的学习[:muscle:](#额外的学习-muscle) |
 
-## 思维导图 :fire:
+## 思维导图（点击查看高清大图） :fire:
 
 <img src="https://github.com/JsonChao/Awesome-Android-Exercise/blob/master/screenshots/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.png?raw=true">
 
