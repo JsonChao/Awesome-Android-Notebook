@@ -20,9 +20,9 @@
 
 ## 数据库 :floppy_disk:
 
-> [深入浅出MySQL (第2版)](https://github.com/JsonChao/Awesome-Android-Exercise/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMySQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md#sql%E5%9F%BA%E7%A1%80)
+> [深入浅出 SQL (中文版)](https://github.com/JsonChao/Awesome-Android-Exercise/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMySQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md#sql%E5%9F%BA%E7%A1%80)
 
-对《深入浅出MySQL》(第2版)中的重点知识进行了整理归纳。
+对《深入浅出 SQL》(中文版)中的重点知识进行了整理归纳。
 
 ## 算法 :pencil2:
 
@@ -62,9 +62,9 @@
 
 对《Effective Java》中的重点知识进行了整理归纳。
 
-> [Java并发编程实战]()
+> [Java并发编程的艺术]()
 
-对《Java并发编程实战》中的重点知识进行了整理归纳。
+对《Java并发编程的艺术》中的重点知识进行了整理归纳。
 
 > [深入理解JVM]()
 
