@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Exercise/master/screenshots/androidbooks.jpg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Exercise/master/screenshots/androidbooks.jpg" width=60%>
+</div>
+
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
