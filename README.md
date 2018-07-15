@@ -157,21 +157,21 @@ Android优秀三方源码必知必会~
 
 C++学习笔记记录。
 
-> [React Native入门]()
+> [React Native相关]()
 
-React Native入门笔记。
+React Native学习笔记。
 
-> [Flutter入门]()
+> [Flutter相关]()
 
-Flutter入门笔记。
+Flutter学习笔记。
 
-> [Python入门]()
+> [Python相关]()
 
-Python入门笔记。
+Python学习笔记。
 
-> [小程序入门]()
+> [小程序相关]()
 
-小程序入门笔记。
+小程序学习笔记。
 
 > [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
 
