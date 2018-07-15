@@ -165,7 +165,7 @@ React Native学习笔记。
 
 Flutter学习笔记。
 
-> [Python相关]()
+> [Python相关](https://jsonchao.github.io/tags/python/)
 
 Python学习笔记。
 
