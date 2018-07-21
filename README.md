@@ -19,6 +19,14 @@
 
 主要归纳自《计算机网络：自顶向下方法》(原书第6版)。
 
+> [深入理解HTTP]()
+
+主要归纳自《HTTP权威指南》。
+
+> [深入理解TCP/IP]()
+
+主要归纳自《图解TCP/IP》。
+
 ## 数据库 :floppy_disk:
 
 > [SQL](https://github.com/JsonChao/Awesome-Android-Exercise/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAMySQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md#sql%E5%9F%BA%E7%A1%80)
@@ -51,19 +59,19 @@
 
 ## 设计模式 :trophy:
 
-> [Head First 设计模式](中文版)
+> [Java设计模式]()
 
-对《Head First 设计模式》一书中设计模式的精华提炼。
+主要归纳整理自《Head First 设计模式》。
 
-> [Android源码设计模式解析与实战]()
+> [Android源码设计模式]()
 
-对《Android源码设计模式解析与实战》一书中设计模式的精华提炼。
+主要归纳整理自《Android源码设计模式解析与实战》。
 
 ## Java :coffee:
 
 > [Java基础]()
 
-主要归纳自《Java编程思想》。
+主要归纳自《Java核心技术 卷I》、《Java编程思想》、极客时间之Java核心技术36讲。
 
 > [Java高性能编程]()
 
@@ -71,11 +79,11 @@
 
 > [Java并发]()
 
-主要归纳自《Java并发编程的艺术》。
+主要归纳自《Java并发编程的艺术》、《Java并发编程实战》。
 
 > [JVM]()
 
-主要归纳自《深入理解JVM》。
+主要归纳自《深入理解Java虚拟机》、极客时间之深入拆解Java虚拟机。
 
 > [重要Java类源码解析]()
 
@@ -85,57 +93,37 @@
 
 > [KotlinImoocVideoStudyNotes](https://github.com/JsonChao/KotlinImoocVideoStudyNotes)
 
-A study notes for kotlin https://coding.imooc.com/class/108.html 。
+慕课网[Kotlin课程](https://coding.imooc.com/class/108.html)的学习笔记。
 
-> [Kotlin实战]()
+> [Kotlin]()
 
-归纳整理出《Kotlin 实战》一书中的精华。
+归纳整理自《Kotlin 实战》、极客时间之快速上手Kotlin开发。
 
 ## Android :zap:
 
-> [第一行代码]()
+> [Android基础]()
 
-对《第一行代码》中的重点知识进行了整理归纳。
+主要归纳整理自《第一行代码》。
 
-> [Android 从小工到专家]()
+> [Android进阶]()
 
-对《Android 从小工到专家》中的重点知识进行了整理归纳。
+主要归纳整理自《Android从小工到专家》、《Android开发艺术探索》、《Android高级进阶》、《Android进阶之光》、《App研发录-架构设计，Crash分析和竞品》。
 
-> [Android进阶之光]()
+> [Android性能优化]()
 
-对《Android进阶之光》中的重点知识进行了整理归纳。
+主要归纳整理自《Android应用性能优化最佳实践》。
 
-> [Android开发艺术探索]()
+> [Android组件化]()
 
-对《Android开发艺术探索》中的重点知识进行了整理归纳。
+主要归纳整理自《Android组件化架构》。
 
-> [App研发录-架构设计，Crash分析和竞品]()
+> [Android热修复]()
 
-对《App研发录-架构设计，Crash分析和竞品》中的重点知识进行了整理归纳。
+主要归纳整理自《深入探索Android热修复技术原理》。
 
-> [Android性能优化实践]()
+> [深入Android源码]()
 
-对《Android性能优化实践》中的重点知识进行了整理归纳。
-
-> [Android高级进阶]()
-
-对《Android高级进阶》中的重点知识进行了整理归纳。
-
-> [Android系统源代码情景分析]()
-
-对《Android系统源代码情景分析》中的重点知识进行了整理归纳。
-
->[深入理解Android内核设计思想(上,下)]()
-
-对《深入理解Android内核设计思想》(上,下)中的重点知识进行了整理归纳。
-
-> [深入探索Android热修复技术原理]()
-
-对《深入探索Android热修复技术原理》中的重点知识进行了整理归纳。
-
-> [Android组件化架构]()
-
-对《Android组件化架构》中的重点知识进行了整理归纳。
+主要归纳整理自《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)。
 
 > [Android优秀第三方库源码解析]()
 
@@ -143,19 +131,19 @@ Android优秀三方源码必知必会~
 
 ## 编码实践 :speak_no_evil:
 
-> [重构，改善既有代码的设计]()
+> [重构]()
 
 整理出《重构，改善既有代码的设计》一书中的重构精髓。
 
-> [编程珠玑]()
+> [编程技术]()
 
 整理出《编程珠玑》一书中的艺术精髓。
 
 ## 额外的学习 :muscle:
 
-> [C++ Primer Plus(第6版)中文版]()
+> [C++学习笔记]()
 
-C++学习笔记记录。
+主要整理自《C++ Primer Plus》(第6版)。
 
 > [React Native相关]()
 
