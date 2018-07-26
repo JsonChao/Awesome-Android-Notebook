@@ -5,7 +5,7 @@
 
 ## 操作系统 :computer:
 
-> [计算机操作系统]()
+> [深入计算机操作系统]()
 
 主要归纳自《现代操作系统》(原书第四版)。
 
@@ -15,7 +15,7 @@
 
 ## 网络 :cloud:
 
-> [计算机网络](https://jsonchao.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
+> [一步步构造你的计算机网络知识体系](https://jsonchao.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
 
 主要归纳自《计算机网络：自顶向下方法》(原书第6版)。
 
@@ -69,19 +69,19 @@
 
 ## Java :coffee:
 
-> [Java基础]()
+> [筑造扎实的Java基础]()
 
 主要归纳自《Java核心技术 卷I》、《Java编程思想》、极客时间之Java核心技术36讲。
 
-> [Java高性能编程]()
+> [探索Java高性能编程]()
 
 主要归纳自《Effective Java》。
 
-> [Java并发]()
+> [Java并发艺术探索]()
 
 主要归纳自《Java并发编程的艺术》、《Java并发编程实战》。
 
-> [JVM]()
+> [深入JVM]()
 
 主要归纳自《深入理解Java虚拟机》、极客时间之深入拆解Java虚拟机。
 
@@ -95,29 +95,29 @@
 
 慕课网[Kotlin课程](https://coding.imooc.com/class/108.html)的学习笔记。
 
-> [Kotlin]()
+> [Kotlin之旅]()
 
 归纳整理自《Kotlin 实战》、极客时间之快速上手Kotlin开发。
 
 ## Android :zap:
 
-> [Android基础]()
+> [Android基础-兴趣是最好的老师]()
 
 主要归纳整理自《第一行代码》。
 
-> [Android进阶]()
+> [Android进阶-高手成长之路有时会很孤独]()
 
 主要归纳整理自《Android从小工到专家》、《Android开发艺术探索》、《Android高级进阶》、《Android进阶之光》、《App研发录-架构设计，Crash分析和竞品》。
 
-> [Android性能优化]()
+> [Android性能优化必知必会]()
 
 主要归纳整理自《Android应用性能优化最佳实践》。
 
-> [Android组件化]()
+> [Android组件化之路]()
 
 主要归纳整理自《Android组件化架构》。
 
-> [Android热修复]()
+> [深入Android热修复]()
 
 主要归纳整理自《深入探索Android热修复技术原理》。
 
