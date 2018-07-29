@@ -165,7 +165,7 @@ Python学习笔记。
 
 一些有助于你更早成为Android Expert的tips。
 
-> [Android Expert Interview]()
+> [Android Expert Interview](https://github.com/JsonChao/Awesome-Android-Interview)
 
 一份Android Expert的面试题库。
 
