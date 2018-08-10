@@ -107,7 +107,7 @@
 
 > [Android进阶-高手成长之路有时会很孤独]()
 
-主要归纳整理自《Android从小工到专家》、《Android开发艺术探索》、《Android高级进阶》、《Android进阶之光》、《App研发录-架构设计，Crash分析和竞品》。
+主要归纳整理自《Android从小工到专家》、《Android进阶之光》、《Android开发艺术探索》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
 > [Android性能优化必知必会]()
 
