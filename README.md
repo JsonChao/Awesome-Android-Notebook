@@ -101,7 +101,7 @@
 
 ## Android :zap:
 
-> [Android基础-兴趣是最好的老师]()
+> [Android基础-兴趣是最好的老师](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
 
 主要归纳整理自《第一行代码》。
 
