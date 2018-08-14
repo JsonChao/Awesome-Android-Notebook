@@ -141,10 +141,6 @@ Android优秀三方源码必知必会~
 
 ## 额外的学习 :muscle:
 
-> [C++学习笔记]()
-
-主要整理自《C++ Primer Plus》(第6版)。
-
 > [React Native相关]()
 
 React Native学习笔记。
