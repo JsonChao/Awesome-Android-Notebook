@@ -15,7 +15,7 @@
 
 ## 网络 :cloud:
 
-> [一步步构造你的计算机网络知识体系](https://jsonchao.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
+> [深入理解计算机网络](https://jsonchao.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
 
 主要归纳自《计算机网络：自顶向下方法》(原书第6版)。
 
@@ -101,11 +101,11 @@
 
 ## Android :zap:
 
-> [Android基础-兴趣是最好的老师](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
+> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
 
 主要归纳整理自《第一行代码》。
 
-> [Android进阶-高手成长之路有时会很孤独]()
+> [Android进阶]()
 
 主要归纳整理自《Android从小工到专家》、《Android进阶之光》、《Android开发艺术探索》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
@@ -141,19 +141,19 @@ Android优秀三方源码必知必会~
 
 ## 额外的学习 :muscle:
 
-> [React Native相关]()
+> [React Native]()
 
 React Native学习笔记。
 
-> [Flutter相关]()
+> [Flutter]()
 
 Flutter学习笔记。
 
-> [Python相关](https://jsonchao.github.io/tags/python/)
+> [Python](https://jsonchao.github.io/tags/python/)
 
 Python学习笔记。
 
-> [小程序相关]()
+> [小程序]()
 
 小程序学习笔记。
 
