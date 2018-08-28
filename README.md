@@ -165,6 +165,10 @@ Python学习笔记。
 
 一份最新的Top Company面试题库。
 
+> [技术之外]()
+
+我相信，不同的知识领域也有相通性。
+
 **为什么要创建这个仓库？**
 
 > 想法来源于jwasham的[coding-interview-university](https://github.com/jwasham/coding-interview-university)。
