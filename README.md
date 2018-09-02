@@ -165,9 +165,9 @@ Python学习笔记。
 
 一份最新的Top Company面试题库。
 
-> [ML-Roadmap)](https://github.com/JsonChao/ML-Roadmap)
+> [ML-Roadmap](https://github.com/JsonChao/ML-Roadmap)
 
-未来 = 机器学习 + 大数据。
+一份最新的机器学习路线图。
 
 > [技术之外]()
 
