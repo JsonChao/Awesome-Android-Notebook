@@ -153,21 +153,21 @@ Flutter学习笔记。
 
 Python学习笔记。
 
+> [ML-Roadmap](https://github.com/JsonChao/ML-Roadmap)
+
+一份最新的机器学习路线图。
+
 > [小程序]()
 
 小程序学习笔记。
-
-> [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
-
-一些有助于你更早成为Android Expert的tips。
 
 > [My Android Interview Repo](https://github.com/JsonChao/Awesome-Android-Interview)
 
 一份最新的Top Company面试题库。
 
-> [ML-Roadmap](https://github.com/JsonChao/ML-Roadmap)
+> [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
 
-一份最新的机器学习路线图。
+一些有助于你更早成为Android Expert的tips。
 
 > [技术之外]()
 
