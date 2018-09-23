@@ -5,7 +5,7 @@
 
 ## 操作系统 :computer:
 
-> [深入理解计算机操作系统]()
+> [操作系统]()
 
 主要归纳自《现代操作系统》(原书第四版)。
 
@@ -15,15 +15,15 @@
 
 ## 网络 :cloud:
 
-> [深入理解计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
+> [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
 
 主要归纳自《计算机网络：自顶向下方法》(原书第6版)。
 
-> [深入理解HTTP]()
+> [HTTP]()
 
 主要归纳自《HTTP权威指南》。
 
-> [深入理解TCP/IP]()
+> [TCP/IP]()
 
 主要归纳自《图解TCP/IP》。
 
@@ -69,19 +69,19 @@
 
 ## Java :coffee:
 
-> [筑造扎实的Java基础]()
+> [Java基础]()
 
 主要归纳自《Java核心技术 卷I》、《Java编程思想》、极客时间之Java核心技术36讲。
 
-> [探索Java高性能编程]()
+> [Java最佳实践]()
 
 主要归纳自《Effective Java》。
 
-> [Java并发艺术探索]()
+> [Java并发]()
 
 主要归纳自《Java并发编程的艺术》、《Java并发编程实战》。
 
-> [深入理解JVM]()
+> [JVM]()
 
 主要归纳自《深入理解Java虚拟机》、极客时间之深入拆解Java虚拟机。
 
@@ -109,11 +109,11 @@
 
 主要归纳整理自《Android从小工到专家》、《Android进阶之光》、《Android开发艺术探索》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
-> [Android性能优化必知必会]()
+> [Android性能优化]()
 
 主要归纳整理自《Android应用性能优化最佳实践》。
 
-> [Android组件化之路](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
+> [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
 主要归纳整理自《Android组件化架构》。
 
@@ -135,7 +135,7 @@ Android优秀三方源码必知必会~
 
 整理出《重构，改善既有代码的设计》一书中的重构精髓。
 
-> [编程技术]()
+> [编程艺术]()
 
 整理出《编程珠玑》一书中的艺术精髓。
 
@@ -168,10 +168,6 @@ Python学习笔记。
 > [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
 
 一些有助于你更早成为Android Expert的tips。
-
-> [技术之外]()
-
-我相信，不同的知识领域也有相通性。
 
 **为什么要创建这个仓库？**
 
