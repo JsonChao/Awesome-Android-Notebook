@@ -99,7 +99,7 @@
 
 > [Android进阶]()
 
-主要归纳整理自《Android从小工到专家》、《Android进阶之光》、《Android开发艺术探索》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
+主要归纳整理自《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
 > [Android性能优化]()
 
@@ -115,7 +115,7 @@
 
 > [Android源码解析]()
 
-主要归纳整理自《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)。
+主要归纳整理自《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》。
 
 > [Android优秀第三方库源码解析]()
 
