@@ -43,7 +43,7 @@
 
 > [算法从0到1]()
 
-主要归纳整理慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《数据结构和算法之美》
+主要归纳整理自慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《数据结构和算法之美》
 
 > [Lettcode相关题解]()
 
