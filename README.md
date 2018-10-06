@@ -133,10 +133,6 @@ Android优秀三方源码必知必会~
 
 ## 额外的学习 :muscle:
 
-> [React Native]()
-
-React Native学习笔记。
-
 > [Flutter]()
 
 Flutter学习笔记。
@@ -148,10 +144,6 @@ Python学习笔记。
 > [ML-Roadmap](https://github.com/JsonChao/ML-Roadmap)
 
 一份最新的机器学习路线图。
-
-> [小程序]()
-
-小程序学习笔记。
 
 > [My Android Interview Repo](https://github.com/JsonChao/Awesome-Android-Interview)
 
