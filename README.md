@@ -15,7 +15,7 @@
 
 ## 网络 :cloud:
 
-> [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
+> [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)（进行中~）
 
 主要归纳自《计算机网络：自顶向下方法》(原书第6版)。
 
@@ -41,7 +41,7 @@
 
 ## 算法 :pencil2:
 
-> [算法从0到1]()
+> [算法从0到1]()（进行中~）
 
 主要归纳整理自慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《数据结构和算法之美》
 
@@ -65,7 +65,7 @@
 
 ## Java :coffee:
 
-> [Java基础]()
+> [Java基础]()（进行中~）
 
 主要归纳自《Java编程思想》、《Java核心技术 卷I》、极客时间之《Java核心技术36讲》。
 
@@ -109,7 +109,7 @@
 
 主要归纳整理自《Android应用性能优化最佳实践》。
 
-> [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
+> [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)（进行中~）
 
 主要归纳整理自《Android组件化架构》。
 
@@ -121,7 +121,7 @@
 
 主要归纳整理自《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》。
 
-> [Android优秀第三方库源码解析]()
+> [Android优秀第三方库源码解析]()（进行中~）
 
 Android优秀三方源码必知必会~
 
