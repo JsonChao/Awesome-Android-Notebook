@@ -87,13 +87,9 @@
 
 ## Kotlin :fire:
 
-> [KotlinImoocVideoStudyNotes](https://github.com/JsonChao/KotlinImoocVideoStudyNotes)
-
-慕课网[Kotlin课程](https://coding.imooc.com/class/108.html)的学习笔记。
-
 > [Kotlin之旅]()
 
-归纳整理自《Kotlin 实战》、极客时间之《快速上手Kotlin开发》。
+归纳整理自《Kotlin 实战》、极客时间之《快速上手Kotlin开发》、慕课网之《Kotlin系统入门》。
 
 ## Android :zap:
 
