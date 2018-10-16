@@ -59,7 +59,7 @@
 
 主要归纳整理自《Head First 设计模式》。
 
-> [Android源码设计模式]()
+> [Android源码设计模式]()（进行中~）
 
 主要归纳整理自《Android源码设计模式解析与实战》。
 
@@ -73,11 +73,11 @@
 
 主要归纳自《Effective Java》。
 
-> [Java并发]()
+> [Java并发]()（进行中~）
 
 主要归纳自《Java并发编程的艺术》、《Java并发编程实战》、极客时间之《Java核心技术36讲》。
 
-> [JVM]()
+> [JVM]()（进行中~）
 
 主要归纳自《深入理解Java虚拟机》、极客时间之《深入拆解Java虚拟机》、极客时间之《Java核心技术36讲》。
 
@@ -93,11 +93,11 @@
 
 ## Android :zap:
 
-> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
+> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)（已完成）
 
 主要归纳整理自《第一行代码》。
 
-> [Android进阶]()
+> [Android进阶]()（进行中~）
 
 主要归纳整理自《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
@@ -113,7 +113,7 @@
 
 主要归纳整理自《深入探索Android热修复技术原理》。
 
-> [Android源码解析]()
+> [Android源码解析]()（进行中~）
 
 主要归纳整理自《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》。
 
