@@ -119,7 +119,7 @@
 
 > [Android源码解析]()（进行中~）
 
-主要归纳整理自《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
+主要归纳整理自《Android进阶解秘》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
 > [Android优秀第三方库源码解析]()（进行中~）
 
@@ -157,7 +157,7 @@ Python学习笔记。
 
 > 想法来源于jwasham的[coding-interview-university](https://github.com/jwasham/coding-interview-university)。
 
-笔者是一名普通的Android开发者，毕业于2016年，至今（2018/5/10）已工作2年，看过jwasham的学习之旅之后，打算创建此仓库——Awesome-Android-Notebook来督促自己更快更有效地成为独当一面的高级(资深)Android全栈工程师，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
+笔者是一名普通的Android开发者，毕业于2016年，至今（2018/5/10）已工作2年多，看过jwasham的学习之旅之后，打算创建此仓库——Awesome-Android-Notebook来督促自己更快更有效地成为独当一面的高级(资深)Android全栈工程师，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
 
 ## 版权声明
 
