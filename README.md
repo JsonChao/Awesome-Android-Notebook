@@ -145,7 +145,7 @@ Python学习笔记。
 
 一份最新的机器学习路线图。
 
-> [My Android Interview Repo](https://github.com/JsonChao/Awesome-Android-Interview)
+> [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
 
 一份最新的Top Company面试题库。
 
