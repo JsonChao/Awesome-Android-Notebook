@@ -87,7 +87,7 @@
 
 ## Kotlin :fire:
 
-> [Kotlin之旅]()
+> [Kotlin之旅]()（进行中~）
 
 归纳整理自《Kotlin 实战》、极客时间之《快速上手Kotlin开发》、慕课网之《Kotlin系统入门》。
 
@@ -101,7 +101,7 @@
 
 主要归纳整理自《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
-> [Android性能优化]()
+> [Android性能优化]()（进行中~）
 
 主要归纳整理自《Android应用性能优化最佳实践》。
 
