@@ -1,12 +1,12 @@
     <!-- GFM-TOC -->
-* [一、组件化基础](#一-组件化基础)
+* [一、组件化基础](#一组件化基础)
 * [二、组件化编程](#二组件化编程)
 
 
 
-# 一、 组件化基础
+## 一、 组件化基础
 
-## 认识组件化
+### 认识组件化
 
 **多module划分为业务和基础功能**
 
@@ -46,7 +46,7 @@
 - MultiDex分包。
 - 插件化。
 
-## 依赖
+### 依赖
 
 AS独有的三种依赖方式：
 
@@ -71,14 +71,14 @@ AS独有的三种依赖方式：
 - 读入其他资源module使用的是”project“字段，而”：base“中冒号的意思是文件目录内与自己相同层级的其他module。
 
 
-## 聚合和解耦
+### 聚合和解耦
 
 - AS正是以依赖的方式给每个module之间提供了沟通和交流的渠道，从而形成聚合。
 - 聚合和解耦是项目架构的基础。
 - 组件化架构就是在文件层级上有效地控制沟通和个体独立性的做法。
 
 
-## 重新认识AndroidManifest
+### 重新认识AndroidManifest
 
 问题：每个module都有一份配合的AndroidManifest文件来记载其信息，最终生成一个App的时候，其只有一份AndroidManifest来指导App应该如何配置，那么如何记录这么多个module独立的配置信息呢？
 
@@ -119,7 +119,7 @@ name需要具体包名+属性名，这是因为AndroidManifest会引用多个mod
 - 每个module打包aar时都会将versionCode和versionName补全。
 
 
-## 你所不知道的Application
+### 你所不知道的Application
 
 **Applicaiton的基础和作用**
 
@@ -145,23 +145,23 @@ Applicaiton提供的最好用的方法：
 
 在full文件夹中的AndroidManifest查看最终编入的是哪个Application。
 
-## 小结
+### 小结
 
 授人以鱼不如授人以渔，理解技能的基础原理，你会有一种一眼能看穿表层，直达里层的运转轨迹的感觉。当深入技能的高深层次的时候，更加需要加深对基础知识的理解。
 
 
-# 二、组件化编程
+## 二、组件化编程
 
-## 本地广播
+### 本地广播
 
-**对比全局广播和本地广播：**
+#### 对比全局广播和本地广播：
 
 - 本地广播比全局广播要快，而且最接近于Android原生（出于Android.support兼容库）。
 - 经过了多个support版本的迭代，稳定性和兼容性最优。
 - 通信安全性、保密性和通信效率远高于全局广播。
 
 
-**源码分析**
+#### 源码分析
 
 本地广播使用了观察者的设计模式
 
@@ -224,5 +224,155 @@ Applicaiton提供的最好用的方法：
 - 调用注册的BroadReciver的onReceive方法来运行广播出发内容。
 
 
-## 组件间通信机制
+### 组件间通信机制
 
+#### 如何解决组件化的层级障碍？
+
+如下图所示，通过使用Base module来跨越组件化层级，并且它也是模块间信息交流的基础。
+
+![image](https://camo.githubusercontent.com/4a7d41d40aa16fadd0a96dfb3e3b1402e19c20b7/687474703a2f2f6f64677739633933692e626b742e636c6f7564646e2e636f6d2f2f467658506c615167416443676b56324c73475148786e743457423151)
+
+#### 事件总线
+
+##### 什么是事件总线？
+
+如下图所示，事件总线机制通过记录对象、使用观察者模式来通知对象各种事件。
+
+![image](https://upload-images.jianshu.io/upload_images/2276275-c20610cdd44f4c5f.png?imageMogr2/auto-orient/)
+
+##### 为什么使用事件总线替代广播？
+
+- 广播：耗时、容易被捕获（不安全）。
+- 事件总线：更节省资源、更高效，能将信息传递给原生以外的各种对象。
+
+##### 事件总线 EventBus
+
+- 优点：开销小，代码更优雅、简洁，解耦发送者和接收者，可动态设置事件处理线程和优先级。
+- 缺点：每个事件必须自定义一个事件类，增加了维护成本。
+
+EventBus的观察者模式和一般的观察者模式不同，它使用了EventBus来作为中介者，抽离了许多职责，它的原理图如下：
+
+![image](https://asce1885.gitbooks.io/android-rd-senior-advanced/content/EventBus.png)
+
+##### 为何要解注册？
+
+因为register是强引用，它会让对象无法得到内存回收，导致内存泄露。
+
+##### EventBus3.0和EventBus2.x的区别？
+
+- EventBus2.x使用的是运行时注解，它采用了反射的方式对整个注册的类的所有方法进行扫描来完成注册，因而会对性能有一定影响。
+- EventBus3使用的是编译时注解，Java文件会编译成.class文件，在对class文件进行打包等一系列处理。在编译成.class文件时，EventBus会使用EventBusAnnotationProcessor注解处理器读取@Subscribe()注解并解析、处理其中的信息，然后生成Java类来保存所有订阅者的订阅信息。这样就创建出了对文件或类的索引关系，并将其编入到apk中。
+- EventBus3.0使用了对象池缓存减少了创建对象的开销。
+
+##### EventBus和RxBus的区别？
+
+- RxJava的Observable有onError、onComplete等状态回调。
+- Rxjava使用组合的而非嵌套的方式，避免了回调地狱。
+- Rxjava的线程调度设计的更加优秀，更简单易用。
+- Rxjava可使用多种操作符来进行链式调用来实现复杂的逻辑。
+- Rxjava的信息效率高于EventBus2.x，低于EventBus3。
+
+##### 建议
+
+项目中使用了RxJava，则使用RxBus，否则使用EventBus3。
+
+#### 组件化事件总线的考量
+
+组件化要求功能模块独立，为了尽量少影响到App Module和Base Module，建议将事件总线功能单独做一个Module，让Base Module依赖即可。
+
+### 组件间跳转
+
+#### 隐式跳转
+
+当使用包名+类名的方式来进行隐式跳转时，setClassName和setComponentName的第一个参数为APP包名。这是因为所有的AndoridManifest最终会合成一份AndroidManifest，这个时候模块已经消失了，Activity跳转需要索引包名。
+
+#### ARouter路由跳转
+
+##### 什么是路由？
+
+是指路由器从一个接口收到数据包，根据数据路由包的目的地址进行定向转发到另一个接口的过程。Router（路由器）就是连接各个模块中页面跳转的中转站。
+
+##### 原生跳转和路由跳转的对比
+
+对比图如下所示。
+
+![image](https://upload-images.jianshu.io/upload_images/11195468-82fcac93084628d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+
+##### ARouter组件化配置步骤
+
+- 1.首先在Base module中添加一些配置：
+
+
+    implementaion 'com.alibaba:arouter-api:1.1.0'
+    annotationProcessor 'com.alibaba:arouter-compiler:1.1.1'
+    
+- 2.annotationProcessor会使用javaCompileOptions这个配置来获取当前module的名字。在各个模块中的build.gradle的defaultConfig属性中加入：
+
+
+    javaCompileOptions {
+        annotaionProcessorOptions {
+            arguments = [ moduleName : project.getName() ]
+        }
+    }
+    
+- 3.每个模块的dependencies属性需要ARouter apt的引用，不然无法在apt中生成索引文件，无法跳转成功。
+
+
+    dependencies {
+        annotationProcessor 'com.alibaba:arouter-compiler:1.1.1'
+    }
+    
+- 4.最后，在Application中初始化。
+
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        if (Build.Config.DEBUG) {
+            ARouter.openLog();
+            ARouter.openDebub();
+        }
+        ARouter.init(this);
+    }
+    
+##### ARouter使用步骤
+
+- 1.给目的Activity添加注解Route，path是跳转的路径：
+
+    
+    // 注意：每个module的group名(即gank_web)不应该相同
+    @Route(path = "/gank_web/1")
+    public class WebActivity extends BaseActivity
+    
+- 2.使用ARouter跳转：
+
+    
+    ARouter.getInstance().build("/gank_web/1")
+            .withString("url", url)
+            .withString("title", desc)
+            .navigation();
+            
+- 3.目的Activity读取传递的intent的方式就可以获取参数了：
+
+
+    baseIntent = getIntent();
+    String title = baseIntent.getStringExtra("title");
+    String url = baseIntent.getStringExtra("url");
+    
+#### ARouter路由原理
+
+1.ARouter拥有自身的编译时注解框架，编译期会根据注解生成三个文件，用于每个模块中页面的路由索引。其生成的三个文件继承于ARouter的接口，如下：
+
+- Group(IRouteGroup)
+- Providers(IProviderGroup)
+- Root(IRouteRoot)
+
+2.在Application加载的时候，ARouter会使用初始化调用init方法，之后再LogisticsCenter中通过加载编译时注解时创建的Group、Providers、Root三个类型的文件，使用Warehoure将文件保存到三个不同的HashMap对象中，Warehouse就相当于路由表，其保存着全部的模块跳转关系，如下所示：
+
+![image](https://raw.githubusercontent.com/JsonChao/Awesome-Android-Notebook/master/screenshots/ARouter%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B%20.png)
+
+3.ARouter路由跳转实际上还是调用了startActivity的跳转，使用了原生的Framework机制，只是通过apt注解的形式制造出跳转规则，并人为地拦截跳转和设置跳转条件，ARouter跳转流程图如下所示：
+
+![image](https://raw.githubusercontent.com/JsonChao/Awesome-Android-Notebook/master/screenshots/ARouter%20%E8%B7%B3%E8%BD%AC%E8%BF%87%E7%A8%8B.png)
+
+#### 组件化
