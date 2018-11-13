@@ -119,7 +119,7 @@
 
 > [Android源码解析]()（进行中~）
 
-主要归纳整理自《Android进阶解秘》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
+主要归纳整理自《Android进阶解密》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
 > [Android优秀第三方库源码解析]()（进行中~）
 
