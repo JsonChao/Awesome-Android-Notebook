@@ -17,7 +17,7 @@
 
 > [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)（进行中~）
 
-主要归纳自《计算机网络：自顶向下方法》(原书第6版)。
+主要归纳自《计算机网络：自顶向下方法》(原书第6版)、极客时间之《趣谈网络协议》。
 
 > [HTTP]()
 
