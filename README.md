@@ -47,7 +47,7 @@
 
 > [Lettcode相关题解]()
 
-记录笔者所有AC的Lettcode相关题解、[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、《算法面试通关40讲》。
+记录笔者所有AC的Lettcode相关题解、慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《算法面试通关40讲》。
 
 > [其它算法书题解]()
 
