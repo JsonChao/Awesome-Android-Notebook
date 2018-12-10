@@ -121,7 +121,7 @@
 
 主要归纳整理自《Android进阶解密》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
-> [Android优秀第三方库源码解析]()（进行中~）
+> [Android优秀第三方库源码解析](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E4%B8%BB%E6%B5%81%E4%B8%89%E6%96%B9%E5%BA%93%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)（进行中~）
 
 Android优秀三方源码必知必会~
 
