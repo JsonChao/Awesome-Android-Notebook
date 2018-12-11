@@ -99,7 +99,7 @@
 
 > [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（进行中~）
 
-主要归纳整理自《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
+主要归纳整理自《Android进阶解密》、《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
 > [Android性能优化]()（进行中~）
 
@@ -113,7 +113,7 @@
 
 主要归纳整理自《深入探索Android热修复技术原理》、《Android进阶解密》。
 
-> [Android插件化开发指南]()
+> [Android插件化]()
 
 主要归纳整理自《Android插件化开发指南》、《Android进阶解密》。
 
