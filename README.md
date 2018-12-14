@@ -17,7 +17,7 @@
 
 > [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)（进行中~）
 
-主要归纳自《计算机网络：自顶向下方法》(原书第6版)、《HTTP权威指南》、《图解TCP/IP》/极客时间之《趣谈网络协议》。
+主要归纳自《计算机网络：自顶向下方法》(原书第6版)、《HTTP权威指南》、《图解TCP/IP》、极客时间之《趣谈网络协议》。
 
 ## 数据库 :floppy_disk:
 
@@ -109,11 +109,11 @@
 
 主要归纳整理自《Android插件化开发指南》、《Android进阶解密》。
 
-> [Android源码解析]()（进行中~）
+> [Android核心源码解析系列]()（进行中~）
 
 主要归纳整理自《Android进阶解密》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《Android框架揭秘》、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
-> [Android优秀第三方库源码解析](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E4%B8%BB%E6%B5%81%E4%B8%89%E6%96%B9%E5%BA%93%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)（进行中~）
+> [Android优秀第三方库源码解析系列](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E4%B8%BB%E6%B5%81%E4%B8%89%E6%96%B9%E5%BA%93%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)（进行中~）
 
 Android优秀三方源码必知必会~
 
