@@ -37,7 +37,7 @@
 
 主要归纳整理自《算法图解》、《趣学算法》、慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、极客时间之《数据结构和算法之美》。
 
-> [Lettcode相关题解](进行中)
+> [Lettcode相关题解](进行中~)
 
 记录笔者所有AC的Lettcode相关题解、慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《算法面试通关40讲》。
 
@@ -121,9 +121,13 @@ Android优秀三方源码必知必会~
 
 ## 额外的学习 :muscle:
 
-> [C/C++]()(进行中~）
+> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)(已完成）
 
-C/C++学习笔记。
+C学习笔记。
+
+> [C++]()(进行中~）
+
+C++学习笔记。
 
 > [Python](https://jsonchao.github.io/tags/python/)
 
