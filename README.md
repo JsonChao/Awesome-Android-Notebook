@@ -5,11 +5,11 @@
 
 ## 操作系统 :computer:
 
-> [计算机操作系统]()
+> 计算机操作系统
 
 主要归纳自《现代操作系统》(原书第四版)。
 
-> [Linux]()
+> Linux
 
 主要归纳自《Linux私房菜 基础学习篇》(第三版)。
 
@@ -27,7 +27,7 @@
 
 ## 编译原理 :hammer:
 
-> [编译原理]()
+> 编译原理
 
 主要归纳自《编译原理》(第2版)。
 
@@ -37,11 +37,11 @@
 
 主要归纳整理自《算法图解》、《趣学算法》、慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、极客时间之《数据结构和算法之美》。
 
-> [Lettcode相关题解](进行中~)
+> [Lettcode相关题解]()(进行中~)
 
 记录笔者所有AC的Lettcode相关题解、慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《算法面试通关40讲》。
 
-> [其它算法书题解]()
+> 其它算法书题解
 
 归纳整理自《剑指Offer》、《编程之美》、《编程珠玑》、《算法》(原书第4版)中的相关题解。
 
@@ -57,7 +57,7 @@
 
 主要归纳自《Java编程思想》、《Java核心技术 卷I》、极客时间之《Java核心技术36讲》。
 
-> [Java最佳实践]()
+> Java最佳实践
 
 主要归纳自《Effective Java》。
 
@@ -69,7 +69,7 @@
 
 主要归纳自《深入理解Java虚拟机》、《揭秘Java虚拟机》、极客时间之《深入拆解Java虚拟机》、《Java核心技术36讲》。
 
-> [重要Java类源码解析系列]()
+> 重要Java类源码解析系列
 
 对Java中重要的类进行了详细的源码解析。
 
@@ -81,7 +81,7 @@
 
 ## Android :zap:
 
-> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)（已完成）
+> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
 
 主要归纳整理自《第一行代码》。
 
@@ -97,11 +97,11 @@
 
 主要归纳整理自《Android组件化架构》。
 
-> [Android热修复]()
+> Android热修复
 
 主要归纳整理自《深入探索Android热修复技术原理》、《Android进阶解密》。
 
-> [Android插件化]()
+> Android插件化
 
 主要归纳整理自《Android插件化开发指南》、《Android进阶解密》。
 
@@ -115,17 +115,17 @@ Android优秀三方源码必知必会~
 
 ## 编码实践 :speak_no_evil:
 
-> [重构]()
+> 重构
 
 整理出《重构，改善既有代码的设计》一书中的重构精髓。
 
 ## 额外的学习 :muscle:
 
-> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)(已完成）
+> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 C学习笔记。
 
-> [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)(已完成）
+> [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 C++学习笔记。
 
