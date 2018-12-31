@@ -33,11 +33,11 @@
 
 ## 算法 :pencil2:
 
-> [算法从0到1]()（进行中~）
+> 算法从0到1（进行中~）
 
 主要归纳整理自《算法图解》、《趣学算法》、慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、极客时间之《数据结构和算法之美》。
 
-> [Lettcode相关题解]()(进行中~)
+> Lettcode相关题解(进行中~)
 
 记录笔者所有AC的Lettcode相关题解、慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《算法面试通关40讲》。
 
@@ -47,13 +47,13 @@
 
 ## 设计模式 :trophy:
 
-> [Android源码设计模式]()（进行中~）
+> Android源码设计模式（进行中~）
 
 主要归纳整理自《Head First 设计模式》、《Android源码设计模式解析与实战》。
 
 ## Java :coffee:
 
-> [Java基础]()（进行中~）
+> Java基础（进行中~）
 
 主要归纳自《Java编程思想》、《Java核心技术 卷I》、极客时间之《Java核心技术36讲》。
 
@@ -61,11 +61,11 @@
 
 主要归纳自《Effective Java》。
 
-> [Java并发]()（进行中~）
+> Java并发（进行中~）
 
 主要归纳自《Java并发编程实战》、《Java并发编程的艺术》、极客时间之《Java核心技术36讲》。
 
-> [JVM]()（进行中~）
+> JVM（进行中~）
 
 主要归纳自《深入理解Java虚拟机》、《揭秘Java虚拟机》、极客时间之《深入拆解Java虚拟机》、《Java核心技术36讲》。
 
@@ -75,7 +75,7 @@
 
 ## Kotlin :fire:
 
-> [Kotlin之旅]()（进行中~）
+> Kotlin之旅（进行中~）
 
 归纳整理自《Kotlin 实战》、极客时间之《快速上手Kotlin开发》、慕课网之《Kotlin系统入门》。
 
@@ -89,7 +89,7 @@
 
 主要归纳整理自《Android进阶解密》、《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
-> [Android性能优化]()（进行中~）
+> Android性能优化（进行中~）
 
 主要归纳整理自《Android应用性能优化最佳实践》、极客时间之《Android开发高手课》。
 
@@ -105,7 +105,7 @@
 
 主要归纳整理自《Android插件化开发指南》、《Android进阶解密》。
 
-> [Android核心源码解析系列]()（进行中~）
+> Android核心源码解析系列（进行中~）
 
 主要归纳整理自《Android进阶解密》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
