@@ -145,11 +145,17 @@ Python学习笔记。
 
 一些有助于你更早成为Android Expert的tips。
 
-**为什么要创建这个仓库？**
+#### 为什么要创建这个仓库？
 
 > 想法来源于jwasham的[coding-interview-university](https://github.com/jwasham/coding-interview-university)。
 
 笔者是一名普通的Android开发者，毕业于2016年，至今已工作2年多，看过jwasham的学习之旅之后，打算创建此仓库——Awesome-Android-Notebook来督促自己更快更有效地成为独当一面的高级(资深)Android全栈工程师，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
+
+#### 如何去贡献？
+
+此计划的内容是笔者逐字打上去的，难免会有一些笔误，如果发现有差错的地方可直接对相应文档进行编辑修改。
+
+欢迎在 Issue 中提交对本仓库的改进建议~
 
 ## 版权声明
 
