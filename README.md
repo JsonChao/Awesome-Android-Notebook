@@ -47,7 +47,7 @@
 
 ## 设计模式 :trophy:
 
-> Android源码设计模式（进行中~）
+> Java、Android源码设计模式（进行中~）
 
 主要归纳整理自《Head First 设计模式》、《Android源码设计模式解析与实战》。
 
