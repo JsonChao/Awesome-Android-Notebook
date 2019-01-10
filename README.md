@@ -52,7 +52,7 @@
 
 主要归纳整理自《Head First 设计模式》、《Android进阶之光》。
 
-> [Android源码设计模式]()
+> Android源码设计模式
 
 主要归纳整理自《Android源码设计模式解析与实战》。
 
