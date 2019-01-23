@@ -33,13 +33,9 @@
 
 ## 算法 :pencil2:
 
-> 算法从0到1（进行中~）
-
-主要归纳整理自《算法图解》、《趣学算法》、慕课网之[玩转数据结构 从入门到进阶](https://coding.imooc.com/learn/list/207.html)、[学习算法思想，修炼编程内功](https://coding.imooc.com/learn/list/71.html)、极客时间之《数据结构和算法之美》。
-
 > Lettcode相关题解(进行中~)
 
-记录笔者所有AC的Lettcode相关题解、慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)、极客时间之《算法面试通关40讲》。
+记录笔者所有AC的Lettcode相关题解、极客时间之《数据结构和算法之美》、《算法面试通关40讲》、慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)。
 
 > 其它算法书题解
 
@@ -111,7 +107,7 @@
 
 主要归纳整理自《Android插件化开发指南》、《Android进阶解密》。
 
-> Android核心源码解析系列（进行中~）
+> [Android核心源码解析系列]()（进行中~）
 
 主要归纳整理自《Android进阶解密》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
