@@ -107,7 +107,7 @@
 
 主要归纳整理自《Android插件化开发指南》、《Android进阶解密》。
 
-> [Android核心源码解析系列]()（进行中~）
+> [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)（进行中~）
 
 主要归纳整理自《Android进阶解密》、《Android系统源代码情景分析》、《深入理解Android内核设计思想》(上, 下)、《深入解析Android虚拟机》、《最强Android书 架构大剖析》、《Android插件化开发指南》。
 
