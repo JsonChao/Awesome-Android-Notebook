@@ -689,7 +689,7 @@ goods1为新创建的对象，后面的都是从对象池中取出的缓存对�
 
 3、转换后的接口（鸭子）
 
-   public interface Duck {
+    public interface Duck {
         public void quack();
         public void fly();
     }
