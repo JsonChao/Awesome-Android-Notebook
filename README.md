@@ -117,7 +117,7 @@ Android优秀三方源码必知必会~
 
 ## 编码实践 :speak_no_evil:
 
-> 重构
+> [重构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
 整理出《重构，改善既有代码的设计》一书中的重构精髓。
 
