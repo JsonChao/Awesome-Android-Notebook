@@ -91,7 +91,7 @@
 
 主要归纳整理自《Android进阶解密》、《Android开发艺术探索》、《Android进阶之光》、《Android从小工到专家》、《Android高级进阶》、《App研发录-架构设计，Crash分析和竞品》。
 
-> [Android性能优化]()（进行中~）
+> [Android性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
 
 主要归纳整理自《Android应用性能优化最佳实践》、极客时间之《Android开发高手课》。
 
