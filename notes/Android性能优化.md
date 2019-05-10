@@ -259,6 +259,108 @@ Histogram：直方图注重量的分析。使用方式与Dominator Tree类似。
 2、Profile MEMORY（时间有限时使用）：运行程序，对每一个页面进行内存分析检查。首先，反复打开关闭页面5次，然后收到GC（点击Profile MEMORY左上角的垃圾桶图标），如果此时total内存还没有恢复到之前的数值，则可能发生了内存泄露。此时，再点击Profile MEMORY左上角的垃圾桶图标旁的heap dump按钮查看当前的内存堆栈情况，选择按包名查找，找到当前测试的Activity，如果引用了多个实例，则表明发生了内存泄露。
 
 
+# App绘制优化
 
+## 一、认识绘制优化
+
+确保刷新帧率>60fps,完成单次刷新<16ms。
+
+### 目标
+
+保证稳定的帧率来避免卡顿。
+
+## 二、检测性能瓶颈（优化工具）
+
+### 一、Layout Inspector
+
+只能分析Android Studio中正在运行的App的视图布局结构。
+
+### 二、GPU配置渲染工具
+
+从Android M开始渲染八步骤：
+
+#### 1、橙色-Swap Buffers
+
+表示GPU处理任务的时间。
+
+#### 2、红色-Command Issue
+
+进行2D渲染显示列表的时间，越高表示需要绘制的视图越多。
+
+#### 3、浅蓝-Sync&Upload
+
+准备有待绘制的图片所耗费的时间，越高表示图片数量越多或图片越大。
+
+#### 4、深蓝-Draw
+
+测量和绘制视图所需的时间，越高表示视图越多或onDraw方法有耗时操作。
+
+#### 5、一级绿-Measure/Layout
+
+onMeasure与onLayout所花费的时间。
+
+#### 6、二级绿-Animation
+
+执行动画所需要花费的时间。越高表示使用了非官方动画工具或执行中有读写操作。
+
+#### 7、三级绿-Input Handling
+
+系统处理输入事件所耗费的时间。
+
+#### 8、四级绿-Misc Time/Vsync Delay
+
+主线程执行了太多任务，导致UI渲染跟不上vSync的信号而出现掉帧。
+
+### 三、卡顿检测工具
+
+#### 1、监听Looper日志实现
+
+AndroidperformanceMonitor(BlockCanary)
+
+#### 2、利用Choreographer
+
+Takt
+
+TinyDancer
+
+## 三、绘制优化
+
+### 一、过度绘制
+
+GPU过度绘制5中区域颜色：
+
+- 原色：无过度绘制。
+- 蓝色：1次。
+- 绿色：2次。
+- 粉色：3次。
+- 红色：4次。
+- 标准：蓝色或以下。
+
+#### 方式
+
+- 1、处理有图片背景的区域在代码里有选择性的取出背景。
+- 2、有选择性地移除窗口背景：getWindow().setBackgroundDrawable(null)。
+- 3、自定义View中使用Canvas.clipRect。
+
+### 二、减少嵌套层次和控件个数
+
+#### 布局加载原理
+
+LayoutInflater通过pull解析方式来解析各个xml节点，再将对应的各个节点名使用反射创建出View的对象实例。
+
+#### 优化顺序
+
+- 1、使用TextView替换RL、LL。
+- 2、使用低端机进行优化，以发现性能瓶颈。
+- 3、使用merge、ViewStub标签。
+- 4、onDraw不能进行复杂运算。
+- 5、使用TextView的行间距替换多行文本：lineSpacingExtra/lineSpacingMultiplier。
+- 6、使用Spannable/Html.fromHtml替换多种不同规格文字。
+- 7、用LinearLayout自带的分割线。
+- 8、使用Space添加间距。
+- 9、lint + alibaba规约修复点。
+- 10、使用约束布局。
+- 11、Common Style抽取 (自定义快捷键style：Ctrl + Alt+ commad-2）
+- 12、布局属性排列顺序规范（快捷键Ctrl + Alt + F）
 
 
