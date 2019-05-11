@@ -364,3 +364,82 @@ LayoutInflater通过pull解析方式来解析各个xml节点，再将对应的�
 - 12、布局属性排列顺序规范（快捷键Ctrl + Alt + F）
 
 
+# App瘦身
+
+## 一、分析APK组成结构：
+
+1、打开build下的analyze apk选项，选择当前的release apk。
+
+2、apk的组成为：
+
+- dex
+- res
+- asserts
+- lib
+- META-INF：存放签名信息
+- MANIFEST.MF：其中每一个资源文件都有一个SHA-256-Digest签名，MANIFEST.MF文件的SHA256（SHA1）并base64编码的结果即为CERT.SF中的SHA256-Digest-Manifest值。
+- CERT.SF：除了开头处定义的SHA256（SHA1）-Digest-Manifest值，后面几项的值是对MANIFEST.MF文件中的每项再次SHA256并base64编码后的值。
+- CERT.RSA：其中包含了公钥、加密算法等信息。首先对前一步生成的MANIFEST.MF使用了SHA256（SHA1）-RSA算法，用开发者私钥签名，然后在安装时使用公钥解密。最后，将其与未加密的摘要信息（MANIFEST.MF文件）进行对比，如果相符，则表明内容没有被修改。
+- androidManifest
+- resources.arsc：编译后的二进制资源文件
+
+3、瘦身完毕后，可利用分析工具的Compare with进行apk优化前后的对比。
+
+## 二、apk优化：
+
+- 1、assets：删除其中的无用资源和无用字体。
+- 2、使用svg替代icon-font。
+- 3、动态下载资源：例如字体、js代码、图片。
+- 4、压缩资源文件，用到的时候再动态解压。
+- 5、优化lib：配置abiFilters，使用armeabi、aremabi-v7a、×86即可，mips属于小众，默认支持arm的so的，但×86的不支持。
+- 6、避免复制so：Android 6.0之前，so文件会压缩到apk中。系统安装应用的时候，会把so文件解压到data分区，这会导致多占用一倍的空间。在6.0+中，使用：<application android:extractnativeLibs="false"...>。
+- 7、删除无用的资源映射。
+- 8、对res进行资源名称混淆：AndResGuard。
+- 9、右击as的任何文件，选择Refactor->Remove Unused Resources删除无用资源（不要勾选清除id）。或者在打包时进行收缩资源，设置buildType {release { shrinkResources true} } 即可。
+- 10、如果国内应用可以只支持中文，通过设置defaultConfig { resConfigs "zh" } }即可。
+- 11、统一应用风格：如统一颜色和按钮按压效果。
+- 12、图片放置优化思路：
+  
+    1、聊天表情出一套图 -> hdpi
+
+    2、纯色小icon使用VD -> raw
+
+    3、背景大图出一套 ->xhdpi
+
+    4、logo等权重比较大的图片出两套 ->hdpi,xhdpi
+
+    5、若某些图在真机中有异常，则用多套图
+
+    6、若遇到奇葩机型，则针对性补图
+
+- 13、优化图片：
+
+    谷歌使用建议：VD（纯色icon）->WebP（非纯色icon）->Png（更好效果） ->jpg（若无alpha通道）
+    
+    使用VectorDrawable：
+    注意点：
+    1、必须通过app:arcCompat属性来使用svg，如果通过src，则在低版本手机上会出现不兼容的问题。
+    2、可能会不兼容selector，在Activity中手动兼容即可：static { AppCompatDelegate.setCompatVectorFromResourcesEnabled(true) }
+    3、不兼容第三方库
+    4、性能问题：当Vector比较简单时，效率肯定比Bitmap高，复杂则效率会不如Bitmap。
+    5、不便于管理：建议原则为，同目录多类型文件，以前缀区别，不同目录相同类型文件，以意义区分。
+    
+    使用WebP：
+    注意点：
+    1、兼容性不好，最低支持4.2.1。
+    2、不便于预览，需使用浏览器打开。
+    3、可使用WebpConvertPlugin这个gradle插件在mergeXXXResource Task和processXXXResource Task直接插入一个task去将png、jpg图片批量替换成webp图片。
+    
+- 14、复用按压效果：
+
+    分割线使用统一的shape。
+
+    item背景使用统一的selector。
+    
+- 15、压缩图片：
+
+    优先压缩大图（建议有损压缩），后小图，不压.9图。
+    发版前通过TinyPIC_Gradle_Plugin插件来使用tinypng压缩一次图片。注意：app默认会在打包时进行图片的压缩工作，此时建议手动禁止：android {           defaultConfig { ... } aaptOptions { cruncherEnabled = false } }
+    
+- 16、使用Lint，在as的Inspect Code对工程做静态代码检查，去除无用代码和优化不规范代码。
+- 17、开启混淆。
