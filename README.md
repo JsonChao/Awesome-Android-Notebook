@@ -4,7 +4,7 @@
 
 ## 开始
 
-- 计算机组成
+> 计算机组成
 
 主要归纳自:
 
@@ -185,7 +185,11 @@
 
 > [Android组件化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)（进行中~）
 
-主要归纳整理自《Android组件化架构》。
+主要归纳整理自：
+
+- 《Android组件化架构》
+- 《实战Gradle》
+- 《从零开始学架构》
 
 > [Android热修复]()
 
@@ -226,11 +230,16 @@ Android优秀三方源码必知必会~
 
 > [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-C学习笔记。
+C学习笔记，主要归纳自：
+
+- 《C程序设计语言》
 
 > [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-C++学习笔记。
+C++学习笔记，主要归纳自：
+
+- 《More Effective C++》
+- 《C++ Primer Plus》
 
 > [Python](https://jsonchao.github.io/tags/python/)
 
