@@ -188,13 +188,13 @@
 - 《Android应用性能优化最佳实践》
 -  极客时间之《Android开发高手课》
 
-> [Android组件化架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)（进行中~）
+> [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)（进行中~）
 
 主要归纳整理自：
 
-- 《Android组件化架构》
-- 《实战Gradle》
 - 《从零开始学架构》
+- 《实战Gradle》
+- 《Android组件化架构》
 
 > [Android热修复]()
 
