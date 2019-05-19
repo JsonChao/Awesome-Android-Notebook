@@ -4,7 +4,7 @@
 
 ## 开始
 
-> 计算机组成原理
+> 计算机组成原理（进行中~）
 
 主要归纳自:
 
@@ -35,7 +35,7 @@
 
 ## 网络 :cloud:
 
-> [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)（进行中~）
+> [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
 
 主要归纳自：
 
@@ -83,7 +83,7 @@
 - 《数学之美》
 -  极客时间之《程序员的数学基础课》  
 
-> Lettcode相关题解(进行中~)
+> Lettcode相关题解
 
 记录笔者所有AC的Lettcode相关题解。
 
@@ -105,7 +105,7 @@
 
 ## 设计模式 :trophy:
 
-> [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)（进行中~）
+> [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 主要归纳整理自:
 
@@ -121,7 +121,7 @@
 
 ## Java :coffee:
 
-> Java基础（进行中~）
+> Java基础
 
 主要归纳自：
 
@@ -133,14 +133,14 @@
 
 主要归纳自《Effective Java》。
 
-> Java并发（进行中~）
+> Java并发
 
 主要归纳自：
 
 - 《Java并发编程实战》
 - 《Java并发编程的艺术》
 
-> JVM（进行中~）
+> JVM
 
 主要归纳自：
 
@@ -155,7 +155,7 @@
 
 ## Kotlin :fire:
 
-> Kotlin之旅（进行中~）
+> Kotlin之旅
 
 归纳整理自：
 
@@ -170,7 +170,7 @@
 
 主要归纳整理自《第一行代码》。
 
-> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（进行中~）
+> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
 
 主要归纳整理自：
 
@@ -181,14 +181,14 @@
 - 《App研发录-架构设计，Crash分析和竞品》
 
 
-> [Android性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
+> [Android性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)
 
 主要归纳整理自：
 
 - 《Android应用性能优化最佳实践》
 -  极客时间之《Android开发高手课》
 
-> [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)（进行中~）
+> [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
 主要归纳整理自：
 
@@ -210,7 +210,7 @@
 - 《Android插件化开发指南》
 - 《Android进阶解密》
 
-> [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)（进行中~）
+> [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
 主要归纳整理自：
 
@@ -219,7 +219,7 @@
 - 《Android系统源代码情景分析》
 - 《深入理解Android内核设计思想》(上, 下)
 
-> [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)（进行中~）
+> [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
 Android优秀三方源码必知必会~
 
