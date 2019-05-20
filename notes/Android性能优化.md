@@ -443,3 +443,59 @@ LayoutInflater通过pull解析方式来解析各个xml节点，再将对应的�
     
 - 16、使用Lint，在as的Inspect Code对工程做静态代码检查，去除无用代码和优化不规范代码。
 - 17、开启混淆。
+
+
+# APP电量优化
+
+## 一、电量测试
+
+1、注册action：ACTION_BATTERY_CHANGED广播去获取手机整体耗电量信息，但实时性差，精度低。
+
+2、使用Battery Historian：
+
+Android5.0之后Google开源的一款检测电池有关的信息和事件的工具，可可视化分析相关指标如耗电比例、Wifi、蜂窝数据量、WakeLock唤醒次数。Android6.0更新的2.0新增了引起手机状态变化的应用。此外，它还可以筛选出特定的App查看每个模块的耗时及执行次数。
+
+## 二、电量优化
+
+1、使用TraceView定位CPU占用率异常的问题，对CPU时间片优化。
+
+2、网络传输：
+
+- 1、通过数据压缩减少传输数据，降低电量消耗
+- 2、尽量选择更快的传输方式如WIFI
+- 3、可以将分析和统计等非重要操作等到电量充足或Wifi状态时去请求集中发送
+- 4、无网状态避免网络请求
+
+3、根据不同场景和不同类型的App对定位进行个性化的区分：
+
+- 从GPS_PROVIDER、NETWORK_PROVIDER、PASSIVE_PROVIDER选择合适的Location Provider或者使用Criteria，设置合适的模式、功耗、海波、速度等需求，系统会返回合适的Location Provider。
+- 获取到定位或程序位于后台时，及时注销定位监听。
+- 多模块使用定位尽量复用。
+
+4、谨慎使用WakeLock，它是一种锁的机制，只要有app进程持有一个WakeLock，手机就不会休眠：
+
+- App前台不申请WakeLock
+- App后台要申请时使用带超时参数的方法，防止由于忘记或异常情况下没有释放
+- 任务结束及时释放
+- 屏幕常量使用FLAG_KEEP_SCREEN_ON即可
+
+5、传感器使用：
+
+- 从SENSOR_DELAY_NORMAL(200000微秒）、SENSOR_DELAY_UI(60000微秒）、SENSOR_DELAY_GAME(20000微秒)、SENSOR_DELAY_FASTEST(0微秒）中选用合适采样率的传感器
+- 后台及时注销传感器监听
+
+6、在Api21即以上使用Job Scheduler，使用场景如下：
+
+- 1、应用可推迟的非面向用户的工作：定期数据库数据更新
+- 2、充电时才希望执行的工作
+- 3、访问网络或Wi-Fi连接时需要进行的任务
+- 4、将多个任务打包在需要的场景下执行
+
+## 三、优化步骤
+
+1、在设置-电池里查看App的耗电情况。
+
+2、使用Battery Historian进行分析。
+
+3、根据分析结果选用上面的电量优化方式进行优化。
+
