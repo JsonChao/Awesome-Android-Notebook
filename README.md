@@ -286,6 +286,12 @@ C++学习笔记，主要归纳自：
 - 《More Effective C++》
 - 《C++ Primer Plus》
 
+> [前端]()
+
+前端学习笔记，主要归纳自：
+
+- 极客时间之《重学前端》
+
 > [Python](https://jsonchao.github.io/tags/python/)
 
 Python学习笔记。
