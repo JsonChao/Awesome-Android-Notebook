@@ -220,7 +220,7 @@
 - 《Android工程化最佳实践》
 - 《Android全埋点解决方案》
 
-> [Android性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)
+> [Android性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
 
 主要归纳整理自：
 
