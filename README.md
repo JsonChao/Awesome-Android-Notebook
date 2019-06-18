@@ -158,7 +158,10 @@
 
 > Java最佳实践
 
-主要归纳自《Effective Java》。
+主要归纳自：
+
+- 《Effective Java》
+- 《Java程序性能优化》
 
 > Java并发
 
@@ -222,12 +225,13 @@
 - 《Android工程化最佳实践》
 - 《Android全埋点解决方案》
 
-> [Android性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
+> [性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
 
 主要归纳整理自：
 
 - 《Android应用性能优化最佳实践》
 -  极客时间之《Android开发高手课》
+- 《大型网站性能优化实战》
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
