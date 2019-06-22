@@ -43,8 +43,6 @@
 - 《UNIX环境高级编程》
 - 《深入理解LINUX内核》
 - 《深入Linux内核架构》
-- 《性能之巅》
-- 《最强Android书》
 -  极客时间之《Linux性能优化实战》
 
 
@@ -229,6 +227,7 @@
 
 - 《Android应用性能优化最佳实践》
 -  极客时间之《Android开发高手课》
+- 《性能之巅》
 - 《大型网站性能优化实战》
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
@@ -260,6 +259,7 @@
 
 - 《Android框架揭秘》
 - 《Android进阶解密》
+- 《最强Android书》
 - 《Android系统源代码情景分析》
 - 《深入理解Android内核设计思想》(上, 下)
 
