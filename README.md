@@ -1,6 +1,6 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 安全 [:key:](#安全-key) | 编译原理 [:hammer:](#编译原理-hammer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 额外的学习[:muscle:](#额外的学习-muscle) |
+| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 额外的学习[:muscle:](#额外的学习-muscle) |
 
 ## 最重要的事
 
