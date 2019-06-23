@@ -2,7 +2,7 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------: | 
 | 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 细分领域专家[:rocket:](#细分领域专家-rocket) | 其它[:muscle:](#其它-muscle) |
 
-## 最重要的事
+## 最重要的事 :arrow_forward:
 
 > [精力管理达人]()（进行中~）
 
@@ -78,9 +78,9 @@
 
 主要归纳自:
 
-《图解密码技术》
-《白帽子讲Web安全》
-《计算机安全 原理与实践》（第4版）
+- 《图解密码技术》
+- 《白帽子讲Web安全》
+- 《计算机安全 原理与实践》（第4版）
 
 
 ## 算法 :pencil2:
