@@ -1,56 +1,54 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 操作系统 [:computer:](#操作系统-computer) | 网络 [:cloud:](#网络-cloud) | 数据库 [:floppy_disk:](#数据库-floppy_disk) | 编译原理 [:hammer:](#编译原理-hammer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 编码实践 [:speak_no_evil:](#编码实践-speak_no_evil) | 额外的学习[:muscle:](#额外的学习-muscle) |
+| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 安全 [:key:](#安全-key) | 编译原理 [:hammer:](#编译原理-hammer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 编码实践 [:speak_no_evil:](#编码实践-speak_no_evil) | 额外的学习[:muscle:](#额外的学习-muscle) |
 
-## 开始
+## 最重要的事
 
-> [最重要的事：精力管理]()（进行中~）
+> [精力管理达人]()（进行中~）
 
 主要归纳自：
 
 - 《番茄工作法图解》
 
+> 读书计划
+
+- 同一个技能方向按照难度选取3到5本书阅读，其中最好的书读3遍
+- 碎片化时间系统学习
+- 要想真正掌握一本书的核心内容，需要读三遍。第一遍：细读，目的在于完整阅读全书，并且划出重点，写上读书笔记；一个月后读第二遍：扫读，主要快速翻阅第一遍阅读时做的笔记和划的重点，目的在于加深记忆；半年后第三遍：忆读，读的时候只看目录，然后去回想内容，如果回想不起来，再去进行扫读。这样三遍下来，基本上一本书的核心内容就能够很好的吸收。
+
+
+## 计算机基础 :computer:
+
 > 计算机系统
 
-主要归纳自：
+主要归纳自:
 
 - 《计算机科学导论》（原书第三版）
-- 《计算机程序的构造和解释》 
+- 《计算机程序的构造和解释》
 - 《深入理解计算机系统》(原书第三版)
 
-> 计算机组成原理
+> 组成原理
 
 主要归纳自:
 
 - 极客时间之《深入浅出计算机组成原理》
 
-
-## 操作系统 :computer:
-
-> 计算机操作系统
+> 操作系统
 
 主要归纳自:
 
 - 《现代操作系统》(原书第四版)。
-
-> Linux
-
-主要归纳自:
-
 - 极客时间之《趣谈Linux操作系统》
 - 《Linux私房菜 基础学习篇》(第三版)
 - 《Linux程序设计》
 - 《UNIX环境高级编程》
 - 《深入理解LINUX内核》
 - 《深入Linux内核架构》
--  极客时间之《Linux性能优化实战》
+- 极客时间之《Linux性能优化实战》
 
+> > [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
 
-## 网络 :cloud:
-
-> [计算机网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
-
-主要归纳自：
+主要归纳自:
 
 - 《计算机网络：自顶向下方法》(原书第6版)
 - 《图解TCP/IP》
@@ -62,40 +60,27 @@
 - 《Wireshark网络分析的艺术》
 - 《Unix网络编程：卷1》
 
+> [数据库](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
 
-## 数据库 :floppy_disk:
-
-> [SQL](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
-
-主要归纳自：
-
-- 《深入浅出 SQL》(中文版)
-
-> [数据库基础]()
-
-主要归纳自：
+主要归纳自:
 
 - 《数据库系统概论》
-
-
-## 编译原理 :hammer:
+- 《深入浅出 SQL》(中文版)
 
 > 编译原理
 
-主要归纳自：
+主要归纳自:
 
 - 《编码 隐匿在计算机软硬件背后的语言》
 - 《编译原理》(第2版)
 
-## 安全
+> 安全 
 
-> 计算机安全
+主要归纳自:
 
-主要归纳自：
-
-- 《图解密码技术》
-- 《白帽子讲Web安全》
-- 《计算机安全 原理与实践》（第4版）
+《图解密码技术》
+《白帽子讲Web安全》
+《计算机安全 原理与实践》（第4版）
 
 
 ## 算法 :pencil2:
