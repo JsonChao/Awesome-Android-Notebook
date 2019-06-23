@@ -1,6 +1,6 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 安全 [:key:](#安全-key) | 编译原理 [:hammer:](#编译原理-hammer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 编码实践 [:speak_no_evil:](#编码实践-speak_no_evil) | 额外的学习[:muscle:](#额外的学习-muscle) |
+| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 安全 [:key:](#安全-key) | 编译原理 [:hammer:](#编译原理-hammer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 额外的学习[:muscle:](#额外的学习-muscle) |
 
 ## 最重要的事
 
@@ -46,7 +46,7 @@
 - 《深入Linux内核架构》
 - 极客时间之《Linux性能优化实战》
 
-> > [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
+> [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
 
 主要归纳自:
 
@@ -198,10 +198,11 @@
 - 《Android开发艺术探索》
 - 《App研发录-架构设计，Crash分析和竞品》
 
-> [Android工程实践]()（进行中~）
+> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)（进行中~）
 
 主要归纳整理自：
 
+- 《重构》
 - 《Android工程化最佳实践》
 - 《Android全埋点解决方案》
 
@@ -251,13 +252,6 @@
 > [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
 Android优秀三方源码必知必会~
-
-
-## 编码实践 :speak_no_evil:
-
-> [重构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
-
-整理出《重构，改善既有代码的设计》一书中的重构精髓。
 
 
 ## 额外的学习 :muscle:
