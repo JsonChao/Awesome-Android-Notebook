@@ -1,6 +1,6 @@
-| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | 
-| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 额外的学习[:muscle:](#额外的学习-muscle) |
+| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------: | 
+| 最重要的事 [:arrow_forward:](#最重要的事-arrow_forward) | 计算机基础 [:computer:](#计算机基础-computer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 细分领域专家[:rocket:](#细分领域专家-rocket) | 其它[:muscle:](#其它-muscle) |
 
 ## 最重要的事
 
@@ -84,15 +84,6 @@
 
 
 ## 算法 :pencil2:
-
-> 数学基础 + AI
-
-主要归纳自：
-
-- 《数学之美》
--  极客时间之《程序员的数学基础课》 
-- 《机器学习》
-- 《深度学习》
 
 > Lettcode相关题解
 
@@ -198,23 +189,19 @@
 - 《Android开发艺术探索》
 - 《App研发录-架构设计，Crash分析和竞品》
 
+
+## 细分领域专家 :rocket:
+
+1、基础架构方向
+
 > [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)（进行中~）
 
 主要归纳整理自：
 
 - 《重构》
+> 《App研发录-架构设计，Crash分析和竞品》
 - 《Android工程化最佳实践》
 - 《Android全埋点解决方案》
-
-> [性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
-
-主要归纳整理自：
-
-- 《Android应用性能优化最佳实践》
--  极客时间之《Android开发高手课》
-- 《Web性能权威指南》
-- 《性能之巅》
-- 《大型网站性能优化实战》
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
@@ -239,6 +226,10 @@
 - 《Android插件化开发指南》
 - 《Android进阶解密》
 
+> [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
+
+Android优秀三方源码必知必会~
+
 > [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
 主要归纳整理自：
@@ -249,12 +240,36 @@
 - 《Android系统源代码情景分析》
 - 《深入理解Android内核设计思想》(上, 下)
 
-> [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
-Android优秀三方源码必知必会~
+2、大前端方向
+
+> 前端基础
+
+主要归纳整理自：
+
+极客时间之《重学前端》
+
+> 大前端入门
+
+主要归纳整理自：
+
+《大前端入门指南》
 
 
-## 额外的学习 :muscle:
+3、性能优化方向
+
+> [性能优化](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md#app%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96)（进行中~）
+
+主要归纳整理自：
+
+- 《Android应用性能优化最佳实践》
+-  极客时间之《Android开发高手课》
+- 《Web性能权威指南》
+- 《性能之巅》
+- 《大型网站性能优化实战》
+
+
+4、音视频方向
 
 > [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
@@ -268,35 +283,54 @@ C++学习笔记，主要归纳自：
 
 - 《More Effective C++》
 - 《C++ Primer Plus》
+- 《Android C++ 高级编程》
 
-> [大前端]()
+> Android音视频
 
-大前端学习笔记，主要归纳自：
+主要归纳自：
 
-- 极客时间之《重学前端》
-- 《大前端入门指南》
+- 《Android音视频开发》
+
+
+5、AI方向
+
+> 数学基础
+
+主要归纳自：
+
+- 《数学之美》
+-  极客时间之《程序员的数学基础课》 
 
 > [Python](https://jsonchao.github.io/tags/python/)
 
 Python学习笔记。
 
+> AI
+
+- 《机器学习》
+- 《深度学习》
+
 > [ML-Roadmap](https://github.com/JsonChao/ML-Roadmap)
 
 一份最新的机器学习路线图。
 
-> [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
 
-一份最新的Top Company面试题库。
+## 其它 :muscle:
 
 > [Some awesome tips](https://jsonchao.github.io/2018/04/22/Some%20awesome%20tips)
 
 一些有助于你更早成为Android Expert的tips。
 
+> [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview)
+
+一份最新的Top Company面试题库。
+
+
 #### 为什么要创建这个仓库？
 
 > 想法来源于jwasham的[coding-interview-university](https://github.com/jwasham/coding-interview-university)。
 
-笔者是一名普通的Android开发者，毕业于2016年，至今已工作2年多，看过jwasham的学习之旅之后，打算创建此仓库——Awesome-Android-Notebook来督促自己更快更有效地成为独当一面的高级(资深)Android全栈工程师，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
+笔者是一名普通的Android开发者，毕业于2016年，至今已工作3年，看过jwasham的学习之旅之后，打算创建此仓库——Awesome-Android-Notebook来督促自己更快更有效地成为独当一面的Android技术专家，如果大家觉得它对其有帮助的话，可以点个star收藏一下~
 
 #### 如何去贡献？
 
