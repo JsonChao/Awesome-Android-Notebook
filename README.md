@@ -51,14 +51,11 @@
 主要归纳自:
 
 - 《计算机网络：自顶向下方法》(原书第6版)
-- 《图解TCP/IP》
-- 《HTTP权威指南》
-- 极客时间之《透视HTTP协议》
 - 极客时间之《趣谈网络协议》
+- 《图解TCP/IP》
+- 极客时间之《透视HTTP协议》
+- 《HTTP权威指南》
 - 极客时间之《Web协议详解与抓包实战》
-- 《Wireshark网络分析就这么简单》
-- 《Wireshark网络分析的艺术》
-- 《Unix网络编程：卷1》
 
 > [数据库](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
 
@@ -281,7 +278,7 @@ C学习笔记，主要归纳自：
 
 C++学习笔记，主要归纳自：
 
-- 《More Effective C++》
+- 《Effective C++》
 - 《C++ Primer Plus》
 - 《Android C++ 高级编程》
 
