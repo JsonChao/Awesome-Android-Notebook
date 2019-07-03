@@ -188,7 +188,7 @@
 
 ## 细分领域专家 :rocket:
 
-1、基础架构方向
+1、基础架构方向（架构师）
 
 > [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)（进行中~）
 
