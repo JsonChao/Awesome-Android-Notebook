@@ -190,13 +190,12 @@
 
 1、基础架构方向（架构师）
 
-> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)（进行中~）
-
+> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 主要归纳整理自：
 
 - 《重构》
 - 《App研发录-架构设计，Crash分析和竞品》
-- 《Android工程化最佳实践》 （进行中~）
+- 《Android工程化最佳实践》 
 - 《Android全埋点解决方案》
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
