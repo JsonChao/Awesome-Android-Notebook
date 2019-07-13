@@ -110,7 +110,7 @@
 主要归纳整理自:
 
 - 《Head First 设计模式》
-- 《Android进阶之光》
+- 《Android进阶之光》 （已完成）
 
 > [Android源码设计模式]()
 
@@ -174,7 +174,7 @@
 
 > [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
 
-主要归纳整理自《第一行代码》。
+主要归纳整理自《第一行代码》。（已完成）
 
 > [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
 
@@ -182,8 +182,8 @@
 
 - 《Android 高级进阶》（快速过一遍，扩充Android的广度）
 - 《Android从小工到专家》
-- 《Android进阶之光》
-- 《Android开发艺术探索》
+- 《Android进阶之光》 （已完成，待记录）
+- 《Android开发艺术探索》 （已完成，待记录）
 
 
 ## 细分领域专家 :rocket:
