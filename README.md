@@ -191,6 +191,7 @@
 1、基础架构方向（架构师）
 
 > [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
+
 主要归纳整理自：
 
 - 《Android工程化最佳实践》 
@@ -241,7 +242,7 @@ Android优秀三方源码必知必会~
 
 主要归纳整理自：
 
-- [《大前端入门指南》]()（前端基础部分已read，本周日整理成文）
+- [《大前端入门指南》]()（前端基础部分已read）
 
 > 前端进阶
 
