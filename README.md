@@ -276,8 +276,9 @@ C学习笔记，主要归纳自：
 
 C++学习笔记，主要归纳自：
 
-- 《Effective C++》
 - 《C++ Primer Plus》
+- 《Effective C++》
+- 《More Effective C++》
 - 《Android C++ 高级编程》
 
 > Android音视频
