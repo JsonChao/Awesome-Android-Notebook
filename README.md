@@ -8,7 +8,7 @@
 
 主要归纳自：
 
-- 《番茄工作法图解》 （已完成，待记录）
+- **《番茄工作法图解》 （已完成，待记录）**
 
 > 读书计划
 
@@ -110,7 +110,7 @@
 主要归纳整理自:
 
 - 《Head First 设计模式》
-- 《Android进阶之光》 （已完成）
+- **~~《Android进阶之光 设计模式部分》 （已完成）~~**
 
 > [Android源码设计模式]()
 
@@ -174,7 +174,9 @@
 
 > [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
 
-主要归纳整理自《第一行代码》。（已完成）
+主要归纳整理自：
+
+- **~~《第一行代码》。（已完成）~~**
 
 > [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
 
@@ -182,8 +184,8 @@
 
 - 《Android 高级进阶》（快速过一遍，扩充Android的广度）
 - 《Android从小工到专家》
-- 《Android进阶之光》 （已完成，待记录）
-- 《Android开发艺术探索》 （已完成，待记录）
+- **《Android进阶之光》 （已完成，待记录）**
+- **《Android开发艺术探索》 （已完成，待记录）**
 
 
 ## 细分领域专家 :rocket:
@@ -213,25 +215,25 @@
 主要归纳整理自：
 
 - 《深入探索Android热修复技术原理》
-- 《Android进阶解密》
+- **《Android进阶解密》（已完成，待记录）**
 
 > [Android插件化]()
 
 主要归纳整理自：
 
 - 《Android插件化开发指南》
-- 《Android进阶解密》
+- **《Android进阶解密》（已完成，待记录）**
 
 > [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
-Android优秀三方源码必知必会~
+**Android优秀三方源码必知必会~**
 
 > [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
 主要归纳整理自：
 
 - 《Android框架揭秘》
-- 《Android进阶解密》
+- **《Android进阶解密》（已完成，待记录）**
 - 《最强Android书》
 - 《Android系统源代码情景分析》
 - 《深入理解Android内核设计思想》(上, 下)
@@ -258,7 +260,7 @@ Android优秀三方源码必知必会~
 
 主要归纳整理自：
 
-- 《Android应用性能优化最佳实践》（已完成，待记录）
+- **《Android应用性能优化最佳实践》（已完成，待记录）**
 - 《Android移动性能实战》
 -  极客时间之《Android开发高手课》
 - 《Web性能权威指南》
