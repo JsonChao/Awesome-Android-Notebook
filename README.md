@@ -183,10 +183,10 @@
 
 主要归纳整理自：
 
-- 《Android 高级进阶》（快速过一遍，扩充Android的广度）
-- 《Android从小工到专家》
 - **《Android进阶之光》 （已完成，待记录）**
 - **《Android开发艺术探索》 （已完成，待记录）**
+- 《Android 高级进阶》（快速过一遍，扩充Android的广度）
+- 《Android从小工到专家》
 
 
 ## 细分领域专家 :rocket:
