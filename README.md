@@ -31,7 +31,7 @@
 
 - 极客时间之《深入浅出计算机组 成原理》
 
-> [操作系统]() （进行中~）（进行中~）
+> [操作系统]() （进行中~）
  
 主要归纳自: 
  
@@ -176,7 +176,7 @@
 
 - **~~《第一行代码》。（已完成）~~**
 
-> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（已完成，待记录）（已完成，待记录）
+> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
 
 主要归纳整理自：
 
@@ -190,7 +190,7 @@
 
 1、基础架构方向
 
-> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)（已完成，待记录）
+> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
 主要归纳整理自：
 
