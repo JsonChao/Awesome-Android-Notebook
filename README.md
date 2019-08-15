@@ -4,7 +4,7 @@
 
 ## 最重要的事 :arrow_forward:
 
-> [精力管理]()
+> [精力管理]() （已完成，待记录）
 
 主要归纳自：
 
@@ -23,18 +23,18 @@
 
 主要归纳自:
 
-- 《计算机科学导论》（原书第三版）
+- 《计算机科学导论》（ ）
 
 > 组成原理
 
 主要归纳自:
 
-- 极客时间之《深入浅出计算机组成原理》
+- 极客时间之《深入浅出计算机组 成原理》
 
-> [操作系统]()
-
-主要归纳自:
-
+> [操作系统]() （进行中~）（进行中~）
+ 
+主要归纳自: 
+ 
 - **《现代操作系统》(原书第四版) （进行中~）**
 - 极客时间之《趣谈Linux操作系统》
 - 《Linux私房菜 基础学习篇》(第三版)
@@ -73,7 +73,7 @@
 - 《计算机程序的构造和解释》
 - 《程序员的自我修养——链接、装载与库》
 
-> 安全 
+> [安全]() （进行中~）
 
 主要归纳自:
 
@@ -88,7 +88,7 @@
 
 记录笔者所有AC的Lettcode相关题解。
 
-> [其它算法书和算法课程题解]()
+> [其它算法书和算法课程题解]()（进行中~）
 
 归纳整理自：
 
@@ -107,14 +107,14 @@
 
 ## 设计模式 :trophy:
 
-> [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+> [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)（进行中~）
 
 主要归纳整理自:
 
 - **~~《Android进阶之光 设计模式部分》 （已完成）~~**
 - **《Head First 设计模式》（进行中~）**
 
-> [Android源码设计模式]()
+> [Android源码设计模式]()（进行中~）
 
 主要归纳整理自:
 
@@ -170,13 +170,13 @@
 
 ## Android :zap:
 
-> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)
+> [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)（已完成）
 
 主要归纳整理自：
 
 - **~~《第一行代码》。（已完成）~~**
 
-> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
+> [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（已完成，待记录）（已完成，待记录）
 
 主要归纳整理自：
 
@@ -190,7 +190,7 @@
 
 1、基础架构方向
 
-> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
+> [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)（已完成，待记录）
 
 主要归纳整理自：
 
