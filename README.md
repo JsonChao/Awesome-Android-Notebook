@@ -47,11 +47,11 @@
 - 《性能之巅》
 
 
-> [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)
+> [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)（进行中~）
 
 主要归纳自:
 
-- 《计算机网络：自顶向下方法》(原书第6版) 
+- **《计算机网络：自顶向下方法》(原书第6版) （进行中~）**
 - 极客时间之《趣谈网络协议》
 - 《图解TCP/IP》
 - 极客时间之《透视HTTP协议》
@@ -73,11 +73,11 @@
 - 《计算机程序的构造和解释》
 - 《程序员的自我修养——链接、装载与库》
 
-> [安全]() （进行中~）
+> [安全]() 
 
 主要归纳自:
 
-- **《计算机安全 原理与实践》（第4版）（进行中~）**
+- 《计算机安全 原理与实践》（第4版）
 - 《图解密码技术》
 - 《白帽子讲Web安全》
 
@@ -114,11 +114,11 @@
 - **~~《Android进阶之光 设计模式部分》 （已完成）~~**
 - **《Head First 设计模式》（进行中~）**
 
-> [Android源码设计模式]()（进行中~）
+> [Android源码设计模式]()
 
 主要归纳整理自:
 
-- **《Android源码设计模式解析与实战》（进行中~）**
+- 《Android源码设计模式解析与实战》
 
 
 ## Java :coffee:
@@ -268,11 +268,11 @@
 
 4、音视频方向
 
-> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)（进行中~）
 
 C学习笔记，主要归纳自：
 
-- 《C程序设计语言》
+- **《C程序设计语言》（进行中~）**
 
 > [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
