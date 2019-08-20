@@ -281,6 +281,12 @@ C++学习笔记，主要归纳自：
 - 《C++ Primer Plus》
 - 《Effective C++》
 - 《More Effective C++》
+
+> [JNI/NDK]()
+
+主要归纳自：
+
+- **《Android进阶解密》（已完成，待记录）**
 - 《Android C++ 高级编程》
 
 > Android音视频
