@@ -282,7 +282,7 @@ C++学习笔记，主要归纳自：
 主要归纳自：
 
 - 《Android音视频开发》
-
+- [Android音视频开发学习之路](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826247&idx=1&sn=b25846e36cb43ba7ea8b1ce694e9690d&chksm=80b7b299b7c03b8fec61fdf33de9b8e75be4086238a1e34a8cba880bcff23aac33a6686f6481&scene=38#wechat_redirect)
 
 5、AI方向
 
