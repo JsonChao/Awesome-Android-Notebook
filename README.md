@@ -21,54 +21,92 @@
 
 ## 计算机基础 :computer:
 
-> [操作系统]() （进行中~）
+### 操作系统
+ 
+> [现代操作系统]()（进行中~）
  
 主要归纳自: 
  
 - **《现代操作系统》(原书第四版) （进行中~）**
-- 极客时间之《趣谈Linux操作系统》
+
+> Linux基础
+
+- **极客时间之《趣谈Linux操作系统》**
 - 《Linux私房菜 基础学习篇》(第三版)
 - 《深入理解计算机系统》(原书第三版)
+
+> Linux编程
+
 - 《Linux程序设计》
 - 《UNIX环境高级编程》
+
+> Linux内核
+
 - 《深入理解LINUX内核》
 - 《深入Linux内核架构》
+
+> 操作系统性能优化
+
 - 极客时间之《Linux性能优化实战》
 - 《性能之巅》
 
+
+### 网络
 
 > [网络](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).md)（进行中~）
 
 主要归纳自:
 
 - **《计算机网络：自顶向下方法》(原书第6版) （进行中~）**
+
+> 网络协议
+
 - 极客时间之《趣谈网络协议》
 - 《图解TCP/IP》
 - 极客时间之《透视HTTP协议》
 - 《HTTP权威指南》
+
+> 网络抓包
+
 - 极客时间之《Web协议详解与抓包实战》
 
-> [数据库](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
 
-主要归纳自:
+### 数据库
+
+> [SQL](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
+
+- 《深入浅出SQL》
+
+> 数据库原理
 
 - 《数据库系统概论》
 
-> 编译原理
 
-主要归纳自:
+### 编译原理
 
-- 《编码 隐匿在计算机软硬件背后的语言》
+> 编译原理基础
+
+- **《编码 隐匿在计算机软硬件背后的语言》**
 - **《编译原理》(第2版)**
+
+> 深入理解编译原理
+
 - 《计算机程序的构造和解释》
 - 《程序员的自我修养——链接、装载与库》
 
-> [安全]() 
 
-主要归纳自:
+### 安全
+
+> 计算机安全
 
 - **《计算机安全 原理与实践》（第4版）**
+
+> 密码技术
+
 - 《图解密码技术》
+
+> Web安全
+
 - 《白帽子讲Web安全》
 
 
@@ -84,15 +122,12 @@
 
 > [Lettcode高频题解]()（进行中~）
 
-记录笔者所有AC的Lettcode相关题解，辅助参考资料如下：
-
+-  LetteCode
 -  慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)三门课程视频
 -  极客时间之《数据结构和算法之美》
 -  极客时间之《算法面试通关》
 
 > [其它扩展书籍]()
-
-归纳整理自：
 
 - 《大话数据结构》 
 - 《算法图解》
@@ -106,14 +141,10 @@
 
 > [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)（进行中~）
 
-主要归纳整理自:
-
 - **~~《Android进阶之光 设计模式部分》 （已完成）~~**
 - **《Head First 设计模式》（进行中~）**
 
 > [Android源码设计模式]()
-
-主要归纳整理自:
 
 - **《Android源码设计模式解析与实战》**
 
@@ -122,15 +153,11 @@
 
 > Java基础
 
-主要归纳自：
-
 - **极客时间之《Java核心技术36讲》**
 - 《Java核心技术 卷I》
 - 《Java编程思想》
 
 > Java并发
-
-主要归纳自：
 
 - **极客时间之《Java并发编程实战》**
 - **《Java并发编程实战》**
@@ -138,16 +165,12 @@
 
 > JVM
 
-主要归纳自：
-
 -  **极客时间之《深入拆解Java虚拟机》**
 - **《深入理解Java虚拟机》**
 - 《揭秘Java虚拟机》
 - 《垃圾回收算法手册 自动内存管理的艺术》
 
 > Java最佳实践
-
-主要归纳自：
 
 - **极客时间之《Java性能调优实战》**
 - **《Effective Java》**
@@ -158,8 +181,6 @@
 
 > Kotlin之旅
 
-归纳整理自：
-
 - 《Kotlin 实战》
 -  慕课网之《Kotlin系统入门》
 -  极客时间之《快速上手Kotlin开发》
@@ -169,13 +190,9 @@
 
 > [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)（已完成）
 
-主要归纳整理自：
-
 - **~~《第一行代码》。（已完成）~~**
 
 > [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
-
-主要归纳整理自：
 
 - **《Android进阶之光》 （已完成，待记录）**
 - **《Android开发艺术探索》 （已完成，待记录）**
@@ -189,17 +206,12 @@
 
 > [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
-主要归纳整理自：
-
 - **《Android群英传 神兵利器》 （已完成，待记录）**
 - **《重构》**
 - 《Android工程化最佳实践》 
 - 《Android全埋点解决方案》
 
-
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
-
-主要归纳整理自：
 
 - **《从零开始学架构》**
 - **极客时间之《许式伟的架构课》**
@@ -208,14 +220,10 @@
 
 > [Android热修复]()
 
-主要归纳整理自：
-
 - **《深入探索Android热修复技术原理》**
 - **《Android进阶解密》（已完成，待记录）**
 
 > [Android插件化]()
-
-主要归纳整理自：
 
 - **《Android插件化开发指南》**
 - **《Android进阶解密》（已完成，待记录）**
@@ -225,8 +233,6 @@
 **Android优秀三方源码必知必会~**
 
 > [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
-
-主要归纳整理自：
 
 - **《Android进阶解密》（已完成，待记录）**
 - **《最强Android书》**
@@ -239,13 +245,9 @@
 
 > 大前端入门
 
-主要归纳整理自：
-
 - **[《大前端入门指南》]()（前端基础部分已read）**
 
 > 前端进阶
-
-主要归纳整理自：
 
 - **极客时间之《重学前端》**
 - **《Web性能权威指南》**
@@ -254,8 +256,6 @@
 3、性能优化方向
 
 > [性能优化](https://jsonchao.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
-
-主要归纳整理自：
 
 - **《Android应用性能优化最佳实践》（已完成，待记录）**
 -  **极客时间之《Android开发高手课》**
@@ -267,13 +267,9 @@
 
 > [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)（进行中~）
 
-C学习笔记，主要归纳自：
-
 - **《C程序设计语言》（进行中~）**
 
 > [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-
-C++学习笔记，主要归纳自：
 
 - **《C++ Primer Plus》**
 - 《Effective C++》
@@ -281,14 +277,10 @@ C++学习笔记，主要归纳自：
 
 > [JNI/NDK]()
 
-主要归纳自：
-
 - **《Android进阶解密》（已完成，待记录）**
 - **《Android C++ 高级编程》**
 
 > Android音视频
-
-主要归纳自：
 
 - **《Android音视频开发》**
 - **[Android音视频开发学习之路](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826247&idx=1&sn=b25846e36cb43ba7ea8b1ce694e9690d&chksm=80b7b299b7c03b8fec61fdf33de9b8e75be4086238a1e34a8cba880bcff23aac33a6686f6481&scene=38#wechat_redirect)**
@@ -296,8 +288,6 @@ C++学习笔记，主要归纳自：
 5、AI方向
 
 > 数学基础
-
-主要归纳自：
 
 - 《数学之美》
 -  极客时间之《程序员的数学基础课》 
