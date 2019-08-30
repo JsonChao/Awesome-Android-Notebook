@@ -120,7 +120,7 @@
 
 > [Lettcode高频题解]()（进行中~）
 
--  LetteCode
+-  **LetteCode**
 -  慕课网之[玩转算法面试，从真题到思维全面提升算法思维](https://coding.imooc.com/learn/list/82.html)三门课程视频
 -  极客时间之《数据结构和算法之美》
 -  极客时间之《算法面试通关》
