@@ -239,7 +239,7 @@
 - 《Android框架揭秘》
 
 
-2、大前端方向
+2、大前端方向（推荐）
 
 > 大前端入门
 
@@ -261,7 +261,7 @@
 - 《大型网站性能优化实战》
 
 
-4、音视频方向
+4、音视频方向（推荐）
 
 > [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)（进行中~）
 
