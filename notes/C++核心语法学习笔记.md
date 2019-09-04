@@ -97,18 +97,23 @@ using可使用多次，相当于java中的import，防止滥用。
 - 3、逆向引用：
 通过函数结果设置改变源头设置
 
-
-    int &f(); 
-    int x; 
-    int main() 
-    {
-        f() = 100;
-        ...
-    } 
-    int &f()
-    {
-        return x;
-    }
+     ## 1
+     int &f(); 
+     int x; 
+     
+     int main() 
+     {
+         ## 3
+         f() = 100;
+         ...
+     } 
+     
+     ## 2
+     int &f()
+     {
+         return x;
+     }
+     
 
 ### 五、类相关定义
 
@@ -133,7 +138,7 @@ using可使用多次，相当于java中的import，防止滥用。
 
 #### 2、成员函数的定义和声明分开
 
-    //test.h
+    // test.h
     class CA {
         void a;
         public:
@@ -143,7 +148,7 @@ using可使用多次，相当于java中的import，防止滥用。
             void print();
     };
     
-    //text.cpp
+    // text.cpp
     #include  <iostream>
     #include "test.h"
     using namespace std;
@@ -176,7 +181,8 @@ using可使用多次，相当于java中的import，防止滥用。
     
 ##### 2、从无名对象复制 
 
-    string strB; strB = string("...");
+    string strB; 
+    strB = string("...");
     
 ##### 3、声明为指针并动态生成 
 
@@ -200,7 +206,7 @@ using可使用多次，相当于java中的import，防止滥用。
             # 在成员变量分配空间时，将参数的值赋值给成员变量
             stuff(string n, int a):name(n),age(a)
             { 
-                cout << name << "---" << age << endl; 
+                count << name << "---" << age << endl; 
             }
     };
             
@@ -312,7 +318,7 @@ using可使用多次，相当于java中的import，防止滥用。
 
 创建时先基类后派生类，销毁时先派生类后基类。
 
-2、有参数时的传递
+#### 2、有参数时的传递
 
 当有参数时，参数必须传送给基类。
 
@@ -344,7 +350,7 @@ using可使用多次，相当于java中的import，防止滥用。
     
         string id;
         public:
-            CDerive(string s1, int a, string s2) : CBase1(s1), CBase(a), id(s2) 
+            CDerive(string s1, int a, string s2) : CBase1(s1), CBase2(a), id(s2) 
             { 
                 ...     
             }
