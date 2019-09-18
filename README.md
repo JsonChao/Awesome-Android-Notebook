@@ -215,7 +215,7 @@
 
 > [Android优秀第三方库源码解析系列](https://github.com/JsonChao/Awesome-Third-Library-Source-Analysis)
 
-**Android优秀三方源码必知必会~**
+**Android优秀三方源码必知必会~（已完成）**
 
 > [Android核心源码解析系列](https://jsonchao.github.io/categories/Android%E6%A0%B8%E5%BF%83%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)
 
