@@ -128,7 +128,7 @@
 
 ## 设计模式 :trophy:
 
-> [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)（进行中~）
+> [Java设计模式](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 - **~~《Android进阶之光 设计模式部分》 （已完成）~~**
 - **《Head First 设计模式》（已完成，待记录）**
