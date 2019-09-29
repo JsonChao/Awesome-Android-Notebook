@@ -264,7 +264,7 @@
 
 > Android音视频
 
-- **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成）**
+- **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
 - **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（进行中~）**
 - **《Android音视频开发》**
 - **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
