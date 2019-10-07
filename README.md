@@ -242,7 +242,7 @@
 > [性能优化](https://jsonchao.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
 
 - **《Android应用性能优化最佳实践》（已完成，待记录）**
-- **《Android 移动性能实战》（进行中~）**
+- **《Android 移动性能实战》**
 -  **极客时间之《Android开发高手课》**
 
 
