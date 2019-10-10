@@ -198,7 +198,33 @@
 - **《性能之巅》**
 
 
-2、基础架构方向（推荐）
+**2、NDK、音视频方向（强烈推荐）**
+
+> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+- **《C程序设计语言》**
+
+> [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+- **《C++ Primer Plus》**
+- 《Effective C++》
+- 《More Effective C++》
+
+> [JNI/NDK]()
+
+- **《Android进阶解密》（已完成，待记录）**
+- **《Android C++ 高级编程——使用NDK》（进行中~）**
+
+> Android音视频
+
+- **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
+- **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（进行中~）**
+- **《Android音视频开发》（进行中~）**
+- **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
+- **[Android音视频开发学习之路](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826247&idx=1&sn=b25846e36cb43ba7ea8b1ce694e9690d&chksm=80b7b299b7c03b8fec61fdf33de9b8e75be4086238a1e34a8cba880bcff23aac33a6686f6481&scene=38#wechat_redirect)**
+
+
+3、基础架构方向（推荐）
 
 > [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
@@ -232,32 +258,6 @@
 - **《最强Android书》**
 - **《深入理解Android内核设计思想》(上, 下)**
 - 《Android系统源代码情景分析》
-
-
-3、音视频方向（推荐）
-
-> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-
-- **《C程序设计语言》**
-
-> [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-
-- **《C++ Primer Plus》**
-- 《Effective C++》
-- 《More Effective C++》
-
-> [JNI/NDK]()
-
-- **《Android进阶解密》（已完成，待记录）**
-- **《Android C++ 高级编程——使用NDK》（进行中~）**
-
-> Android音视频
-
-- **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
-- **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（进行中~）**
-- **《Android音视频开发》（进行中~）**
-- **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
-- **[Android音视频开发学习之路](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826247&idx=1&sn=b25846e36cb43ba7ea8b1ce694e9690d&chksm=80b7b299b7c03b8fec61fdf33de9b8e75be4086238a1e34a8cba880bcff23aac33a6686f6481&scene=38#wechat_redirect)**
 
 
 4、大前端方向（推荐）
