@@ -192,6 +192,8 @@
 - **《Android进阶解密》性能优化章节（已完成，待记录）**
 - **《Android应用性能优化最佳实践》（已完成，待记录）**
 - **《Android群英传 神兵利器》性能优化工具使用章节 （已完成，待记录）**
+- **慕课网之《Top团队大牛带你玩转Android性能分析与优化》（进行中~）**
+- **动脑学院高级Android之性能优化模块**
 - **《Android 移动性能实战》**
 - **极客时间之《Android开发高手课》**
 - **极客时间之《Linux性能优化实战》**
@@ -213,15 +215,18 @@
 > [JNI/NDK]()
 
 - **《Android进阶解密》（已完成，待记录）**
-- **《Android C++ 高级编程——使用NDK》（进行中~）**
+- **网易工程师带你突破Android技术瓶颈之NDK开发模块-NDK部分**
+- **动脑学院高级Android之NDK开发模块-NDK部分**
+- **《Android C++ 高级编程——使用NDK》**
 
 > Android音视频
 
 - **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
-- **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（进行中~）**
-- **《Android音视频开发》（进行中~）**
+- **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（已完成，待记录）**
+- **网易工程师带你突破Android技术瓶颈之NDK开发模块-音视频部分**
+- **动脑学院高级Android之NDK开发模块-音视频部分**
+- **《Android音视频开发》**
 - **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
-- **[Android音视频开发学习之路](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650826247&idx=1&sn=b25846e36cb43ba7ea8b1ce694e9690d&chksm=80b7b299b7c03b8fec61fdf33de9b8e75be4086238a1e34a8cba880bcff23aac33a6686f6481&scene=38#wechat_redirect)**
 
 
 3、基础架构方向（推荐）
