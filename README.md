@@ -242,11 +242,11 @@
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
-- **《从零开始学架构》**
-- **极客时间之《许式伟的架构课》**
 - **《实战Gradle》**
 - **《Android组件化架构》**
 - **动脑学院高级Android之移动架构模块**
+- **《从零开始学架构》**
+- **极客时间之《许式伟的架构课》**
 - **高焕堂Android从程序员到架构师之路**
 
 
