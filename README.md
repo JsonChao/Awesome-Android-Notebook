@@ -198,7 +198,7 @@
 
 **1、性能优化方向（强烈推荐）**
 
-> [性能优化](https://jsonchao.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+> [性能优化](https://jsonchao.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)（进行中~）
 
 - **《Android开发艺术探索》性能优化章节 （已完成，待记录）**
 - **《Android进阶解密》性能优化章节（已完成，待记录）**
