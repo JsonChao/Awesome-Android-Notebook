@@ -6,6 +6,8 @@
 
 ## 最重要的事 :arrow_forward:
 
+> [软技能-代码之外的生存指南]()(进行中~）
+
 > [精力管理]() （已完成，待记录）
 
 主要归纳自：
@@ -221,6 +223,7 @@
 - **《C++ Primer Plus》**
 - 《Effective C++》
 - 《More Effective C++》
+- 《深度探索C++对象模型》
 
 > [JNI/NDK]()
 
@@ -244,6 +247,7 @@
 > [Android工程实践](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E9%87%8D%E6%9E%84.md)
 
 - **《Android群英传 神兵利器》 （已完成，待记录）**
+- **《Android高效进阶-从数据到AI》**
 - **《重构》**
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
@@ -318,6 +322,7 @@ Python学习笔记。
 
 > AI
 
+- 《人工智能》第二版
 - 《机器学习》
 - 《深度学习》
 
