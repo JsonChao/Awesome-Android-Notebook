@@ -209,15 +209,32 @@
 
 > 稳定性优化
 
-- 《Android性能优化最佳实践》第五章 稳定性优化
-- 极客时间之Android开发高手课 崩溃优化
+- [Android稳定性优化](https://blog.csdn.net/gs344937933/article/details/89888975) （了解）
+
+- 《Android性能优化最佳实践》第五章 稳定性优化 （基础）
+
+- 极客时间之Android开发高手课 崩溃优化 （进阶）
+- [美团外卖Android Crash治理之路](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651748107&idx=1&sn=55dff1b286e92cfb6aaee776df8ec89e&chksm=bd12ae468a652750a7624c30eca56f6f83347b16cdfb9153b647c6e5229a822b16724a1bbd9d&scene=38#wechat_redirect) （进阶）
+- [海神平台Crash监控SDK（Android）开发经验总结](https://mp.weixin.qq.com/s/PoWPWy3cXFlG1nohgJTJgw) (进阶）
+- [Android Native Crash 收集](https://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649485876&idx=1&sn=29ead87814c62a9b3e80cd6ada51e13c&chksm=83f83b34b48fb2225db860a290b4e7ee3b30475d887c2b38e8e29881b297c3cdb5c6d44deaed&scene=38#wechat_redirect) (进阶）
+- [理解Android Crash处理流程](http://gityuan.com/2016/06/24/app-crash/)（进阶）
+- [Android应用ANR分析](https://www.jianshu.com/p/30c1a5ad63a3) (进阶）
+- [ANR监测机制](https://www.jianshu.com/p/ad1a84b6ec69) （进阶）
+- [理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/) （进阶）
+- [理解Android ANR的信息收集过程](http://gityuan.com/2016/12/02/app-not-response/) （进阶）
+
+- [巧妙定位ANR问题](https://www.jianshu.com/p/545e5e7bbf94) （经验）
+- [剖析 SharedPreference apply 引起的 ANR 问题](ttps://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）
+ 
 
 > 启动优化
 
 - 慕课网之Top团队大牛带你玩转Android性能分析与优化 第三章 App启动优化
 - 慕课网之Top团队大牛带你玩转Android性能分析与优化 第七章 App线程优化
-- 极客时间之Android开发高手课 启动优化
-- 《Android移动性能实战》第八章 响应时延
+- 极客时间之Android开发高手课 启动优化（进阶）
+- [浅析dex文件加载机制](https://www.cnblogs.com/lanrenxinxin/p/4712224.html) （进阶）
+- 《Android移动性能实战》第八章 响应时延（经验）
+
 
 > 绘制优化
 
