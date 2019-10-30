@@ -222,10 +222,13 @@
 
 > 启动优化
 
-- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第三章 App启动优化
-- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第七章 App线程优化
+- 《Android性能优化最佳实践》第二章 启动优化部分 （基础）
+
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第三章 App启动优化（进阶）
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第七章 App线程优化（进阶）
 - 极客时间之Android开发高手课 启动优化（进阶）
 - [浅析dex文件加载机制](https://www.cnblogs.com/lanrenxinxin/p/4712224.html) （进阶）
+
 - 《Android移动性能实战》第八章 响应时延（经验）
 
 
