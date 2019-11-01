@@ -193,8 +193,6 @@
 
 **1、性能优化方向（强烈推荐）**
 
-> [性能优化](https://jsonchao.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)（进行中~）
-
 > 全面了解
 
 - 极客时间之Android开发高手课 导读
@@ -220,19 +218,26 @@
 - [剖析 SharedPreference apply 引起的 ANR 问题](ttps://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）
  
 
-> 启动优化
+> 启动速度优化
 
 - 《Android性能优化最佳实践》第二章 启动优化部分 （基础）
 
 - 慕课网之Top团队大牛带你玩转Android性能分析与优化 第三章 App启动优化（进阶）
 - 慕课网之Top团队大牛带你玩转Android性能分析与优化 第七章 App线程优化（进阶）
+- [墙上时钟时间 ，用户cpu时间 ，系统cpu时间的理解](https://www.jianshu.com/p/ab3ef6894633)（进阶）
+
 - 极客时间之Android开发高手课 启动优化（进阶）
+- [支付宝客户端架构解析：Android 客户端启动速度优化之「垃圾回收」](https://mp.weixin.qq.com/s?__biz=MzUyMDk2MzUzMQ==&mid=2247483789&idx=1&sn=f3843b9ce282ab7d4e3c6225d780f9cd&chksm=f9e31529ce949c3f8c5d1ef7b96a3c09d358fec8c3d891c6640129152dbb3529b338f81b901f&token=401298154&lang=zh_CN&utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)（进阶）
+- [支付宝 App 构建优化解析：通过安装包重排布优化 Android 端启动性能](https://mp.weixin.qq.com/s/79tAFx6zi3JRG-ewoapIVQ)（进阶）
+- [微信Android热补丁实践演进之路](https://mp.weixin.qq.com/s/-NmkSwZu83HAmzKPawdTqQ)（进阶）
+- [安卓App热补丁动态修复技术介绍](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)（进阶）
 - [浅析dex文件加载机制](https://www.cnblogs.com/lanrenxinxin/p/4712224.html) （进阶）
+- [Dalvik Optimization and Verification With dexopt](https://blog.csdn.net/tabactivity/article/details/51444855)（进阶）
 
 - 《Android移动性能实战》第八章 响应时延（经验）
 
 
-> 绘制优化
+> [绘制优化](https://jsonchao.github.io/2019/07/28/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E7%BB%98%E5%88%B6%E4%BC%98%E5%8C%96/)
 
 - 《Android进阶解密》第十六章 绘制优化
 - 《Android性能优化最佳实践》第二章 绘制优化
@@ -241,7 +246,7 @@
 - 《Android移动性能实战》第四章 CPU
 - 《Android移动性能实战》第七章 流畅度
 
-> 内存优化
+> [内存优化](https://jsonchao.github.io/2019/08/18/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)
 
 - Android进阶解密第十七章 内存优化
 - 《Android性能优化最佳实践》第三章 内存优化
