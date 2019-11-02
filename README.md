@@ -204,6 +204,7 @@
 
 - 《Android性能优化最佳实践》第五章 稳定性优化 （基础）
 
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第十一章 App稳定性优化（进阶）
 - 极客时间之Android开发高手课 崩溃优化 （进阶）
 - [美团外卖Android Crash治理之路](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651748107&idx=1&sn=55dff1b286e92cfb6aaee776df8ec89e&chksm=bd12ae468a652750a7624c30eca56f6f83347b16cdfb9153b647c6e5229a822b16724a1bbd9d&scene=38#wechat_redirect) （进阶）
 - [海神平台Crash监控SDK（Android）开发经验总结](https://mp.weixin.qq.com/s/PoWPWy3cXFlG1nohgJTJgw) (进阶）
@@ -256,6 +257,7 @@
 > 包体积优化
 
 - 《Android性能优化最佳实践》第七章 安装包大小优化
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第十章 App瘦身优化（进阶）
 - 极客时间之Android开发高手课 包体积优化
 
 > 网络优化
@@ -272,12 +274,14 @@
 > 存储优化
 
 - 《Android性能优化最佳实践》第四章 存储优化
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第十二章第二节 存储优化（进阶）
 - 极客时间之Android开发高手课 存储优化
 - 《Android移动性能实战》第一章 磁盘
 
 > 耗电优化
 
 - 《Android性能优化最佳实践》第六章 耗电优化
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第九章 App电量优化（进阶）
 - 极客时间之Android开发高手课 耗电优化
 - 《Android移动性能实战》第五章 电池
 
@@ -336,6 +340,7 @@
 
 > [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
 
+- **慕课网之Gradle3.0自动化项目构建技术精讲+实战**
 - **《实战Gradle》**
 - **《Android组件化架构》**
 - **动脑学院高级Android之移动架构模块**
@@ -364,6 +369,7 @@
 - **《最强Android书》**
 - **《深入理解Android内核设计思想》(上, 下)**
 - **《Android系统源代码情景分析》**
+- **慕课网之剖析Framework面试 冲击Android高级职位**
 
 
 4、大前端方向（推荐）
