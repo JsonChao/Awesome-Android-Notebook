@@ -219,7 +219,7 @@
 - [剖析 SharedPreference apply 引起的 ANR 问题](ttps://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）
  
 
-> 启动速度优化
+> [启动速度优化]()（进行中，计划11月10号产出）
 
 - 《Android性能优化最佳实践》第二章 启动优化部分 （基础）
 
