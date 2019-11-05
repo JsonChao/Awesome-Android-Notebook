@@ -241,12 +241,13 @@
 
 > [绘制优化](https://jsonchao.github.io/2019/07/28/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E7%BB%98%E5%88%B6%E4%BC%98%E5%8C%96/)
 
-- 《Android进阶解密》第十六章 绘制优化
-- 《Android性能优化最佳实践》第二章 绘制优化
-- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第五章 App布局优化 第六章 App卡顿优化
-- 极客时间之Android开发高手课 卡顿优化、UI优化
-- 《Android移动性能实战》第四章 CPU
-- 《Android移动性能实战》第七章 流畅度
+- 《Android进阶解密》第十六章 绘制优化（基础）
+- 《Android性能优化最佳实践》第二章 绘制优化（基础）
+
+- 慕课网之Top团队大牛带你玩转Android性能分析与优化 第五章 App布局优化 第六章 App卡顿优化（进阶）
+- 极客时间之Android开发高手课 卡顿优化、UI优化（进阶）
+- 《Android移动性能实战》第四章 CPU（进阶）
+- 《Android移动性能实战》第七章 流畅度（进阶）
 
 > [内存优化](https://jsonchao.github.io/2019/08/18/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)
 
