@@ -100,7 +100,7 @@
 
 ### 安全
 
-> [计0算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
+> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
 
 - **《计算机网络：自顶向下方法》(原书第6版)之安全章节**
 - **《计算机安全 原理与实践》（第4版）**
