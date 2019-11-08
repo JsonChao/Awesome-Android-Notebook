@@ -100,7 +100,7 @@
 
 ### 安全
 
-> 计算机安全
+> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
 
 - **《计算机网络：自顶向下方法》(原书第6版)之安全章节**
 - **《计算机安全 原理与实践》（第4版）**
@@ -286,10 +286,6 @@
 - 慕课网之Top团队大牛带你玩转Android性能分析与优化 第九章 App电量优化（进阶）
 - 极客时间之Android开发高手课 耗电优化
 - 《Android移动性能实战》第五章 电池
-
-> 设计优化
-
-- 《Java程序性能优化》第二章 设计优化
 
 > Java代码优化
 
