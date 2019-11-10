@@ -199,7 +199,7 @@
 - 极客时间之Android开发高手课 导读（了解）
 - 《Android开发艺术探索》第十五章 Android性能优化（了解）
 
-> 稳定性优化
+> 稳定性优化（进行中，计划11月17号产出）
 
 - [Android稳定性优化](https://blog.csdn.net/gs344937933/article/details/89888975) （了解）
 
@@ -220,7 +220,7 @@
 - [剖析 SharedPreference apply 引起的 ANR 问题](ttps://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）
  
 
-> [启动速度优化]()（进行中，计划11月10号产出）
+> [启动速度优化](https://jsonchao.github.io/2019/11/10/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2Android%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/)
 
 - 《Android性能优化最佳实践》第二章 启动优化部分 （基础）
 
