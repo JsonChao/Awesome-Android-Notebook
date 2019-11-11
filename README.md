@@ -404,9 +404,13 @@
 - 《数学之美》
 -  极客时间之《程序员的数学基础课》 
 
-> [Python](https://jsonchao.github.io/tags/python/)
+> [Python基础](https://jsonchao.github.io/tags/python/)
 
-Python学习笔记。
+Python核心基础学习笔记。
+
+> Python进阶
+
+- 极客时间之《Python核心技术与实战》
 
 > AI
 
