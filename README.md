@@ -118,7 +118,7 @@
 
 - **《剑指Offer》（进行中~）**
 
-> [Lettcode高频题解]()（进行中~）
+> [Lettcode高频题解]()
 
 -  **LetteCode**
 - **动脑学院高级Android之数据结构与算法模块**
