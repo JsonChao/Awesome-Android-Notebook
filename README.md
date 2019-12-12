@@ -200,32 +200,7 @@
 
 **2、NDK、音视频方向（强烈推荐）**
 
-> [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-
-- **《C程序设计语言》**
-
-> [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-
-- **《C++ Primer Plus》**
-- 《Effective C++》
-- 《More Effective C++》
-- 《深度探索C++对象模型》
-
-> [JNI/NDK]()
-
-- **《Android进阶解密》（已完成，待记录）**
-- **网易工程师带你突破Android技术瓶颈之NDK开发模块-NDK部分**
-- **动脑学院高级Android之NDK开发模块-NDK部分**
-- **《Android C++ 高级编程——使用NDK》**
-
-> Android音视频
-
-- **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
-- **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（已完成，待记录）**
-- **网易工程师带你突破Android技术瓶颈之NDK开发模块-音视频部分**
-- **动脑学院高级Android之NDK开发模块-音视频部分**
-- **《Android音视频开发》**
-- **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
+**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)（进行中~）**
 
 
 3、基础架构方向（推荐）
@@ -236,16 +211,18 @@
 - **《Android高效进阶-从数据到AI》**
 - **《重构》**
 
-> [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
+> Gradle自动化构建
 
 - **慕课网之Gradle3.0自动化项目构建技术精讲+实战**
 - **《实战Gradle》**
+
+> [Android架构](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E6%9E%B6%E6%9E%84.md#%E4%B8%80%E7%BB%84%E4%BB%B6%E5%8C%96%E5%9F%BA%E7%A1%80)
+
 - **《Android组件化架构》**
 - **动脑学院高级Android之移动架构模块**
 - **《从零开始学架构》**
 - **极客时间之《许式伟的架构课》**
 - **高焕堂Android从程序员到架构师之路**
-
 
 > [Android热修复]()
 
