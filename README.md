@@ -19,7 +19,7 @@
 
 ### 计算机组成原理
 
-> [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)(进行中~）
+> [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
 
