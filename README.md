@@ -208,7 +208,7 @@
 
 3、基础架构方向（推荐）
 
-[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)
+**[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 4、大前端方向（推荐）
 
