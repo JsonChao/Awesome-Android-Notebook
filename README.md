@@ -203,7 +203,7 @@
 
 **2、NDK、音视频方向（强烈推荐）**
 
-**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)（进行中~）**
+**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
 3、基础架构方向（推荐）
