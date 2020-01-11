@@ -210,32 +210,10 @@
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
+
 4、大前端方向（推荐）
 
-> 前端基础
-
-- **[《大前端入门指南 前端基础部分》]()（已完成，待记录）**
-- 极客时间之《重学前端》
-
-> React Native
-
-- **《大前端入门指南 React Native部分》**
-- **动脑学院高级Android之React Native模块**
-
-> 小程序
-
-- **《大前端入门指南 小程序部分》**
-
-> [Flutter]()（进行中~）
-
-- **《大前端入门指南 Flutter部分》**
-- **动脑学院高级Android之Flutter模块**
-- **极客时间之《Flutter核心技术与实战》**
-
-> 前端性能优化
-
-- **掘金小册之《前端性能优化原理与实践》**
-- **《Web性能优化权威指南》**
+**[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
 
 
 5、AI方向
