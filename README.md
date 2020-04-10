@@ -14,13 +14,14 @@
 - **《番茄工作法图解》（已完成，待记录）**
 
 - **《软技能-代码之外的生存指南》（已完成，待记录）**
-- **《跃迁 从技术到管理的硅谷路径》（进行中~）**
-- **《细节 如何轻影响他人》**
+- **《跃迁 从技术到管理的硅谷路径》（已完成，待记录）**
+- **《细节 如何轻影响他人》（进行中~）**
 - **《精进 如何成为一个很厉害的人》**
-- **《思考，快与慢》**
 
 - **《所谓情商高就是会说话》**
 - **《沟通的艺术 看人入里 看出人外》**
+
+- **《思考，快与慢》**
 
 
 ## 计算机基础 :computer:
@@ -39,7 +40,7 @@
   
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
 
-- **《现代操作系统》(原书第四版)**
+- 《现代操作系统》(原书第四版)
 
 > [Linux基础]()
 
@@ -185,8 +186,8 @@
 
 > Kotlin之旅
 
--  慕课网之《Kotlin系统入门》
--  极客时间之《快速上手Kotlin开发》
+-  **慕课网之《Kotlin系统入门》**
+-  **极客时间之《快速上手Kotlin开发》**
 - 《Kotlin 实战》
 
 
@@ -194,15 +195,15 @@
 
 > [Android基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md#1.1%E4%BA%86%E8%A7%A3%E5%85%A8%E8%B2%8C)（已完成）
 
-- **~~《第一行代码》。（已完成）~~**
+- **~~《第一行代码》（已完成）~~**
 
 > [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)
 
 - **《Android进阶之光》 （已完成，待记录）**
 - **《Android开发艺术探索》 （已完成，待记录）**
 
-- **网易工程师带你突破Android技术瓶颈之高级UI模块**
-- **动脑学院高级Android之高级UI模块**
+- 网易工程师带你突破Android技术瓶颈之高级UI模块
+- 动脑学院高级Android之高级UI模块
 
 
 ## 细分领域专家 :rocket:
@@ -212,7 +213,7 @@
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)（进行中~）**
 
 
-**2、基础架构方向（强烈推荐）**
+**2、基础架构方向（强烈推荐）（进行中~）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)（进行中~）**
 
