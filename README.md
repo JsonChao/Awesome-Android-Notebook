@@ -8,7 +8,7 @@
 
 > 软技能 (已完成，待记录）
 
-**[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers/edit/master)**
+**[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
 
 ## 计算机基础 :computer:
