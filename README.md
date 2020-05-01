@@ -6,7 +6,7 @@
 
 ## 最重要的事 :arrow_forward:
 
-> [软技能]()(已完成，待记录）
+> 软技能 (已完成，待记录）
 
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers/edit/master)**
 
