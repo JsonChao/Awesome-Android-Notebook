@@ -197,9 +197,9 @@
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)（进行中~）**
 
 
-**2、基础架构方向（强烈推荐）（进行中~）**
+**2、基础架构方向（强烈推荐）**
 
-**[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)（进行中~）**
+**[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
 **3、大前端方向（推荐）**
