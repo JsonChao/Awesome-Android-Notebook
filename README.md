@@ -60,19 +60,32 @@
 
 > [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)（进行中~）
 
-主要归纳自:
+#### 综合实战
 
 - **极客时间之《Web 协议详解与抓包实战》**
 
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
-- **《HTTP 权威指南》**
 
-- **《计算机网络：自顶向下方法》(原书第6版)**
-- **《TCP/IP 详解（卷一）》**
+#### 网络基础
+
+- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
+- **极客时间之《趣谈网络协议》**
+
+
+#### 网络进阶
+
+- HTTP 1.1 — **《HTTP 权威指南》**
+- HTTP 2.0 - **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**
+- TCP/IP - **《TCP/IP 详解（卷一：协议）》**
+
+
+#### 网络优化
 
 - **《Web 性能权威指南》**
 
-- 极客时间之《趣谈网络协议》
+
+#### 备选项
+
+- 《计算机网络：自顶向下方法》(原书第6版)
 - 极客时间之《透视 HTTP 协议》
 - 《图解 TCP/IP》
 
@@ -80,17 +93,29 @@
 
 > [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
 
-- **极客时间之《安全攻防技能30讲》**
+#### 深入剖析现代加密技术 
 
-- **《计算机网络：自顶向下方法》(原书第6版)之安全章节**
-- **《计算机安全 原理与实践》（第4版）**
 - **《图解密码技术》**
+
+
+#### 深入了解常见安全漏洞及解决方案
+
 - **《白帽子讲 Web 安全》**
 
 
-> Android 安全
+#### 安全知识体系化深度构建
 
-- **[Android 安全性](https://source.android.com/security)**
+- **《计算机安全 原理与实践》（第4版）**
+
+
+#### 洞悉 SEAndroid 安全机制（软件沙箱、SELinux、TEE）
+
+- **[SEAndroid 官方文档](https://source.android.com/security)**
+
+
+#### 备选项
+
+- **极客时间之《安全攻防技能30讲》**
 
 
 ### 数据库
