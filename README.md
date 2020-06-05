@@ -73,9 +73,9 @@
 
 #### 网络进阶
 
-- HTTP 1.1 — **《HTTP 权威指南》**
-- HTTP 2.0 - **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**
-- TCP/IP - **《TCP/IP 详解（卷一：协议）》**
+- HTTP 1.1 —— **《HTTP 权威指南》**
+- HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**
+- TCP/IP —— **《TCP/IP 详解（卷一：协议）》**
 
 
 #### 网络优化
@@ -115,7 +115,7 @@
 
 #### 备选项
 
-- **极客时间之《安全攻防技能30讲》**
+- 极客时间之《安全攻防技能30讲》
 
 
 ### 数据库
