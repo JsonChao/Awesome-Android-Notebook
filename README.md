@@ -228,19 +228,19 @@
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
 
-**2、基础架构方向（强烈推荐）**
+**2、NDK、音视频方向（强烈推荐）（进行中~）**
+
+**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
+
+
+**3、基础架构方向（强烈推荐）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
-**3、大前端方向（强烈推荐）**
+**4、大前端方向（强烈推荐）**
 
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
-
-
-**4、NDK、音视频方向（强烈推荐）（进行中~）**
-
-**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
 **5、AI方向**
