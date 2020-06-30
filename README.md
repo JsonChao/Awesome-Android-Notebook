@@ -58,11 +58,11 @@
 
 ### 网络（重点）
 
-> [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)（进行中~）
+> [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)
 
 #### 综合实战
 
-- **极客时间之《Web 协议详解与抓包实战》**（进行中~）
+- **极客时间之《Web 协议详解与抓包实战》**
 
 
 #### 网络基础
@@ -73,7 +73,7 @@
 
 #### 网络进阶
 
-- HTTP 1.1 —— **《HTTP 权威指南》** （进行中~）
+- HTTP 1.1 —— **《HTTP 权威指南》** 
 - HTTP 2.0 —— **[http2-explained](https://legacy.gitbook.com/book/ye11ow/http2-explained/details)/[HTTP/2 的协议本身（RFC 7540）](https://httpwg.org/specs/rfc7540.html)/[HTTP/2 的压缩算法（RFC 7541）](https://httpwg.org/specs/rfc7541.html)**
 - TCP/IP —— **《TCP/IP 详解（卷一：协议）》**
 
