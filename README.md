@@ -13,7 +13,7 @@
 
 ## 计算机基础 :computer:
 
-### 计算机组成原理
+### 计算机组成原理（进行中~）
 
 > [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
@@ -21,15 +21,15 @@
 
 - 极客时间之《深入浅出计算机组成原理》
 
-### 操作系统（重点）
+### 操作系统（重点）（进行中~）
  
-> [现代操作系统]()（进行中~）
+> [现代操作系统]()
   
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**  
 
 - 《现代操作系统》(原书第四版)
 
-> [Linux基础]()（进行中~）
+> [Linux基础]()
 
 - **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**
 
@@ -91,7 +91,7 @@
 
 
 
-> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
+> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)（进行中~）
 
 #### 深入剖析现代加密技术 
 
@@ -118,7 +118,7 @@
 - 极客时间之《安全攻防技能30讲》
 
 
-### 数据库
+### 数据库（进行中~）
 
 > [SQL](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
 
@@ -129,7 +129,7 @@
 - 《数据库系统概论》
 
 
-### 编译原理
+### 编译原理（进行中~）
 
 > 编译原理基础
 
