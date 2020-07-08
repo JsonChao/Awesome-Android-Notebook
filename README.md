@@ -11,9 +11,9 @@
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
 
-## 计算机基础 :computer:
+## 计算机基础 :computer:（进行中~）
 
-### 计算机组成原理（进行中~）
+### 计算机组成原理
 
 > [计算机组成原理](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
@@ -21,7 +21,7 @@
 
 - 极客时间之《深入浅出计算机组成原理》
 
-### 操作系统（重点）（进行中~）
+### 操作系统（重点）
  
 > [现代操作系统]()
   
@@ -56,7 +56,7 @@
 - **《性能之巅》**
 
 
-### 网络（重点）
+### 网络（重点）（进行中~）
 
 > [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)
 
