@@ -91,9 +91,7 @@
 
 
 
-> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)（进行中~）
-
-#### 深入剖析现代加密技术 
+> [计算机安全](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E5%AE%89%E5%85%A8.md)
 
 - **《图解密码技术》**
 
@@ -118,7 +116,7 @@
 - 极客时间之《安全攻防技能30讲》
 
 
-### 数据库（进行中~）
+### 数据库
 
 > [SQL](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BASQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.md)
 
@@ -129,7 +127,7 @@
 - 《数据库系统概论》
 
 
-### 编译原理（进行中~）
+### 编译原理
 
 > 编译原理基础
 
