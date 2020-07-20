@@ -4,9 +4,9 @@
 
 ## 注意：标粗的为必读，需要进行三步读书法～
 
-## 最重要的事 :arrow_forward:
+## 最重要的事 :arrow_forward:（已完成）
 
-> 软技能 (已完成，待记录）
+> 软技能 (已完成）
 
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
