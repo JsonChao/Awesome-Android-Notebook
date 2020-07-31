@@ -11,7 +11,7 @@
 **[Secret-Top-Programmers](https://github.com/JsonChao/Secret-Top-Programmers)**
 
 
-## 计算机基础 :computer:（进行中~）
+## 计算机基础 :computer:
 
 ### 计算机组成原理（进行中~）
 
