@@ -240,7 +240,7 @@
 **[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
-**3、基础架构方向（强烈推荐）**
+**3、基础架构方向（强烈推荐）（进行中~）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
