@@ -245,12 +245,12 @@
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
-**4、大前端方向（强烈推荐）**
+4、大前端方向（强烈推荐）
 
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
 
 
-**5、AI方向**
+5、AI方向
 
 > 数学基础
 
