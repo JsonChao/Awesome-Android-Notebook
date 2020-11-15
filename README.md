@@ -235,7 +235,7 @@
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
 
-**2、NDK、音视频方向（强烈推荐）（进行中~）**
+**2、NDK、音视频方向（强烈推荐）**
 
 **[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
