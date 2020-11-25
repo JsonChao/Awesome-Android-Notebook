@@ -230,19 +230,19 @@
 
 ## 细分领域专家 :rocket:
 
-**1、性能优化方向（强烈推荐）（进行中~）**
+**1、性能优化方向（强烈推荐）**
 
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
 
-**2、NDK、音视频方向（强烈推荐）**
-
-**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
-
-
-**3、基础架构方向（强烈推荐）（进行中~）**
+**2、基础架构方向（强烈推荐）（进行中~）**
 
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
+
+
+**3、NDK、音视频方向（强烈推荐）**
+
+**[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
 4、大前端方向（强烈推荐）
