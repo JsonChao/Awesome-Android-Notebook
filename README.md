@@ -230,12 +230,12 @@
 **[Android架构师成长之路](https://github.com/JsonChao/Awesome-Android-Architecture/blob/master/README.md)**
 
 
-**3、NDK、音视频方向（强烈推荐）**
+**3、NDK、音视频方向**
 
 **[全面深入掌握NDK技术](https://github.com/JsonChao/Awesome-Android-NDK)**
 
 
-4、大前端方向（强烈推荐）
+4、大前端方向
 
 **[一步步打磨成长为未来炽手可热的大前端工程师](https://github.com/JsonChao/Awesome-Android-Big-Front-End)**
 
