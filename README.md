@@ -198,7 +198,7 @@
 
 ## Kotlin :fire:
 
-> Kotlin之旅（进行中~）
+> Kotlin之旅
 
 -  **慕课网之《Kotlin系统入门》**
 -  **极客时间之《快速上手Kotlin开发》**
