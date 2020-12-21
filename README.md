@@ -220,7 +220,7 @@
 
 ## 细分领域专家 :rocket:
 
-**1、性能优化方向（强烈推荐）**
+**1、性能优化方向（强烈推荐）（进行中~）**
 
 **[深入探索Android性能优化系列](https://github.com/JsonChao/Awesome-Android-Performance)**
 
