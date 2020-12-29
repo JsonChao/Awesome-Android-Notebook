@@ -164,7 +164,7 @@
 - **《Android源码设计模式解析与实战》（已完成，待记录）**
 
 
-## Java :coffee:（重点）（进行中~）
+## Java :coffee:（重点）
 
 > Java基础 
 
