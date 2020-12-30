@@ -58,7 +58,7 @@
 - **《性能之巅》**
 
 
-### 网络（重点）（进行中~）
+### 网络（重点）
 
 > [网络协议](https://github.com/JsonChao/Awesome-Android-Performance#%E5%85%AD%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96)
 
