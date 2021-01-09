@@ -145,7 +145,7 @@
 - 《程序员的自我修养——链接、装载与库》
 
 
-## 算法 :pencil2:
+## 算法 :pencil2:（重点）
 
 > **[从零到一构建算法知识地图](https://github.com/JsonChao/Awesome-Algorithm-Study)（进行中~）**
 
