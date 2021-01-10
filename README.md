@@ -214,8 +214,8 @@
 
 > [Android进阶](https://jsonchao.github.io/categories/%E5%AE%89%E5%8D%93%E8%BF%9B%E9%98%B6/)（已完成）
 
-- **《Android进阶之光》 （已完成，待记录）**
-- **《Android开发艺术探索》 （已完成，待记录）**
+- **《Android进阶之光》 （已完成）**
+- **《Android开发艺术探索》 （已完成）**
 
 
 ## 细分领域专家 :rocket:
