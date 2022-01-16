@@ -314,7 +314,7 @@ Python核心基础学习笔记。
 我的公众号 `JsonChao` 开通啦，如果您想第一时间获取最新文章和最新动态，欢迎扫描关注~
 
 <div align="center">
-<img src="https://user-gold-cdn.xitu.io/2020/6/11/172a29b8b626ef93?w=258&h=258&f=jpeg&s=28705" width=30%>
+<img src="https://imgtu.com/i/7tk7JP" width=30%>
 </div>
 
 
