@@ -308,6 +308,37 @@ Python核心基础学习笔记。
 * 商业用途请以邮件方式联系本人。
 * 微信公众号转载一律不授权 `原创` 标志。
 
+## 知识星球（推荐）
+
+**出身普通的人，如何真正改变命运？**
+
+这是我过去五、六年一直研究的命题。首先，是为自己研究，因为我是从小城镇出来的，通过持续不断地逆袭立足深圳。**越是出身普通的人，就越需要有耐心，去进行系统性地全面提升，这方面，我有非常丰富的实践经验和方法论**。因此，我开启了 “JsonChao” 的成长社群，希望和你一起完成系统性地蜕变。
+
+### 星球目前有哪些服务？
+
+- 每周会提供一份让 **个人增值，避免踩坑 的硬干货**。
+- 每日以文字或语音的形式分享我个人学习和实践中的 **思考精华或复盘记录**。
+- 提供 **每月 三 次成长**、技术或面试指导的咨询服务。
+- 更多服务正在研发中...
+
+### 超哥的知识星球适合谁？
+
+- **如果你希望持续提升自己，获得更高的薪资或是想加入大厂**，那么超哥的知识星球会对你有很大的帮助。
+- **如果你既努力，又焦虑**，特别适合加入超哥的知识星球，因为我经历过统一的阶段，而且最后找到了走出焦虑，靠近梦想的地方。
+- **如果你希望改变自己的生活状态**，欢迎加入超哥的知识星球，和我一起每日迭代，持续精进。
+
+### 星球如何定价？
+
+365元每年
+
+每天一元，给自己的成长持续加油💪
+
+为了回馈 JsonChao Github 的忠实用户，我申请了 200 张优惠券，先者到先得，错过再无
+
+<div align="center">
+<img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aAPxe8aibFBdkiaY9ldh9uQVxw0WFJ9TicCRlhZIFibIb2ex74hWel3DpkS46aX5vFlwuZXKTNMb2ZnHg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
+</div>
+
 
 ## 公众号
 
@@ -316,38 +347,6 @@ Python核心基础学习笔记。
 <div align="center">
 <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7da61f2739d34818be8a51a7afbbbb53~tplv-k3u1fbpfcp-watermark.image?" width=30%>
 </div>
-
-
-## 赞赏
-
-如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_play.jpg" width=20%><img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
-</div>
-
-
-----
-
-## Contanct Me
-
-###  ●  微信：
-
-> 欢迎关注我的微信：`bcce5360`  
-
-###  ●  微信群：
-
-> **微信群如果不能扫码加入，麻烦大家想进微信群的朋友们，加我微信拉你进群。**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Performance/master/screenshots/Awesome-WanAndroid2.jpeg" width=35%>
-</div>
-        
-
-###  ●  QQ群：
-
-> 2千人QQ群，**Awesome-Android学习交流群，QQ群号：959936182**， 欢迎大家加入~
-
 
 ### About me
 
