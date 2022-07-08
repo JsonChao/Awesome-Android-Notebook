@@ -333,7 +333,7 @@ $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 
 每天一元，给自己的成长持续加油💪
 
-为了回馈 JsonChao Github 的忠实用户，我申请了 200 张优惠券，先者到先得，错过再无
+为了回馈 JsonChao Github 的忠实用户，我申请了少量优惠券，先到者先得，错过再无
 
 <div align="center">
 <img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aAPxe8aibFBdkiaY9ldh9uQVxw0WFJ9TicCRlhZIFibIb2ex74hWel3DpkS46aX5vFlwuZXKTNMb2ZnHg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
