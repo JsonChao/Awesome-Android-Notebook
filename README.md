@@ -338,7 +338,7 @@ Python核心基础学习笔记。
 获取方法：扫描下方的二维码。
 
 <div align="center">
-<img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aBMyo7G0TS2tYYJicPHRLD5KlvoaRA6EP1QvjiaSSkxcOPibnXXtOpgRJw5J3EYHcribkDBuWUfhRF35Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
+<img src="https://user-images.githubusercontent.com/17464480/227223150-0b614156-7cfd-4b85-9f51-ff84c321acf8.png" width=50%>
 </div>
 
 
@@ -358,18 +358,6 @@ $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 - **如果你希望持续提升自己，获得更高的薪资或是想加入大厂**，那么超哥的知识星球会对你有很大的帮助。
 - **如果你既努力，又焦虑**，特别适合加入超哥的知识星球，因为我经历过同样的阶段，而且最后找到了走出焦虑，靠近梦想的地方。
 - **如果你希望改变自己的生活状态**，欢迎加入超哥的知识星球，和我一起每日迭代，持续精进。
-
-### 星球如何定价？
-
-365元每年
-
-每天一元，给自己的成长持续加油💪
-
-为了回馈 JsonChao Github 的忠实用户，我申请了少量优惠券，先到者先得，错过再无
-
-<div align="center">
-<img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aAPxe8aibFBdkiaY9ldh9uQVxw0WFJ9TicCRlhZIFibIb2ex74hWel3DpkS46aX5vFlwuZXKTNMb2ZnHg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
-</div>
 
 
 ## 公众号
