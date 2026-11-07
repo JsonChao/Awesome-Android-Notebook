@@ -443,3 +443,4 @@ Python核心基础学习笔记。
 - 69、[veo 3.1 lite](https://veo31lite.org/) : generate cinematic AI videos faster
 - 70、[hd image converter](https://hdimageconverter.app/) : Enhance & Upscale Your Images Instantly
 
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
